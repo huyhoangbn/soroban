@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tut_sub_03i",
+    "texture": "5c14a221-d382-43ce-86ec-774d65235931",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1200,
+      600
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1200,
+      600
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

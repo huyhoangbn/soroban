@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tut_smul_16",
+    "texture": "c9a5908e-bd69-4844-a2a7-bbc7edf41638",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1200,
+      600
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1200,
+      600
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

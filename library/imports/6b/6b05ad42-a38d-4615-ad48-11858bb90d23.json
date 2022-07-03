@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tut_add_05g",
+    "texture": "48a9d8ac-3369-4473-813f-74a9d171da84",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1200,
+      600
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1200,
+      600
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

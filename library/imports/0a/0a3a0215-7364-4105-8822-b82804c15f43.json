@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "leson",
+    "texture": "cf89dd65-3dc2-4a2a-92ca-2ececbe71844",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1685,
+      140
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1685,
+      140
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

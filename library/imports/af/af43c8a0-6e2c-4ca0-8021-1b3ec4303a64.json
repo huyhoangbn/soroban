@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btshop",
+    "texture": "ce345f22-9057-41fb-baa7-5c1a6e91c77d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      252,
+      223
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      252,
+      223
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

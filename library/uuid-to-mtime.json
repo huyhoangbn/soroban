@@ -1,0 +1,2342 @@
+{
+  "95528bf0-f20d-43f6-acf6-c6c70596d63a": {
+    "asset": 1655292421407,
+    "meta": 1655659758162,
+    "relativePath": "animation"
+  },
+  "43c3c639-de9f-438d-b006-3938c0454a89": {
+    "asset": 1655292421414,
+    "meta": 1655659758164,
+    "relativePath": "prefabs"
+  },
+  "8cc3aa09-1582-4814-97da-0c48c062eb8d": {
+    "asset": 1655292421507,
+    "meta": 1655659758166,
+    "relativePath": "resources"
+  },
+  "dcb844f3-4ad2-4494-aac6-e48214ebbe21": {
+    "asset": 1655292421542,
+    "meta": 1655659758167,
+    "relativePath": "scenes"
+  },
+  "02962343-5cb6-4926-9be5-e1905abd867c": {
+    "asset": 1655292421571,
+    "meta": 1655659758168,
+    "relativePath": "scripts"
+  },
+  "e656ce8b-6dc1-412c-b7c4-77760f4758f3": {
+    "asset": 1655292421640,
+    "meta": 1655659758170,
+    "relativePath": "sprites"
+  },
+  "d11ab814-55bf-462f-a09c-5322539f4364": {
+    "asset": 1655292421411,
+    "meta": 1655659758172,
+    "relativePath": "animation\\hand"
+  },
+  "e90bdd0c-6a89-4048-8af4-56089eb5df50": {
+    "asset": 1655292421415,
+    "meta": 1655659758177,
+    "relativePath": "prefabs\\tutorial"
+  },
+  "11c9af3c-0593-4969-aaf9-0fdee1fbcb94": {
+    "asset": 1655292421417,
+    "meta": 1655659758179,
+    "relativePath": "resources\\font"
+  },
+  "bf676693-f5ab-4052-8ac1-7ffd24bf6009": {
+    "asset": 1655292421438,
+    "meta": 1655659758180,
+    "relativePath": "resources\\prefabs"
+  },
+  "2640d68a-042c-4327-a00e-99eeb67164fd": {
+    "asset": 1655292421481,
+    "meta": 1655659758181,
+    "relativePath": "resources\\sounds"
+  },
+  "37de2670-8a41-4035-997a-57275ba2bde3": {
+    "asset": 1655292421503,
+    "meta": 1655659758183,
+    "relativePath": "resources\\themes"
+  },
+  "36fc1e8f-8bd0-40da-be8b-d512486ea15a": {
+    "asset": 1655292421524,
+    "meta": 1655659758184,
+    "relativePath": "resources\\video"
+  },
+  "8b00fbc6-18e7-4362-92e8-8e6cbe641755": {
+    "asset": 1646408018010,
+    "meta": 1655659758190,
+    "relativePath": "animation\\arrowInOut.anim"
+  },
+  "c4156d51-791a-486b-a640-cc1e7f2b45cd": {
+    "asset": 1646408018012,
+    "meta": 1655659758193,
+    "relativePath": "prefabs\\Bead.prefab"
+  },
+  "2e820fd1-480d-4962-83a7-61b58feb1839": {
+    "asset": 1646932875015,
+    "meta": 1655659758196,
+    "relativePath": "prefabs\\ThemeOption.prefab"
+  },
+  "759eb3b4-8fc4-4ff9-97fd-e930649484fc": {
+    "asset": 1646408018013,
+    "meta": 1655659758200,
+    "relativePath": "prefabs\\Row.prefab"
+  },
+  "f5489a48-4ffb-42df-bf23-654db7bf8e5e": {
+    "asset": 1646931404336,
+    "meta": 1655659758210,
+    "relativePath": "scenes\\challenge.fire"
+  },
+  "9eda7505-7273-4145-a4fd-63128b8be413": {
+    "asset": 1656266418186,
+    "meta": 1656266418201,
+    "relativePath": "scenes\\listLesson.fire"
+  },
+  "14b45cea-d2f4-4cf9-b05c-ae6fe1cd3da0": {
+    "asset": 1655292421547,
+    "meta": 1655659758390,
+    "relativePath": "scripts\\challenge"
+  },
+  "3b934a44-b44c-41c1-8bcc-504aeb67c7d6": {
+    "asset": 1656695665178,
+    "meta": 1656695665198,
+    "relativePath": "scenes\\menu.fire"
+  },
+  "fb16e8be-98eb-4397-a99c-274bbd46c9df": {
+    "asset": 1646932275626,
+    "meta": 1655659758456,
+    "relativePath": "scenes\\playground.fire"
+  },
+  "0abd4f9d-d716-491a-8911-2e0852793d2c": {
+    "asset": 1655292421557,
+    "meta": 1655659758460,
+    "relativePath": "scripts\\listLesson"
+  },
+  "4c3073bf-f5de-4515-91c0-7e57e846b189": {
+    "asset": 1655292421560,
+    "meta": 1655659758464,
+    "relativePath": "scripts\\manager"
+  },
+  "b7948569-4c57-41e5-b389-7096425f5655": {
+    "asset": 1655292421561,
+    "meta": 1655659758469,
+    "relativePath": "scripts\\menu"
+  },
+  "eeaf1d02-4223-440a-9cb2-28f6bd1e29f8": {
+    "asset": 1655292421569,
+    "meta": 1655659758471,
+    "relativePath": "scripts\\miniGame"
+  },
+  "f17dd8af-f407-41c6-8540-da313899d986": {
+    "asset": 1655292421571,
+    "meta": 1655659758473,
+    "relativePath": "scripts\\playground"
+  },
+  "29a2152e-27fe-4ef0-af18-4339cb1c9781": {
+    "asset": 1651680188102,
+    "meta": 1655659758478,
+    "relativePath": "scenes\\test.fire"
+  },
+  "fbabf981-e92b-4f2d-b6f0-b2bed57cf8c6": {
+    "asset": 1646930616064,
+    "meta": 1655659758560,
+    "relativePath": "scripts\\ResourcePack.ts"
+  },
+  "26346259-8276-4f0e-b848-f02f47fa5093": {
+    "asset": 1649869495195,
+    "meta": 1655659758569,
+    "relativePath": "scenes\\tutorial.fire"
+  },
+  "6eb154c0-d0b9-4d0f-9389-02e3bb3c7829": {
+    "asset": 1646408018131,
+    "meta": 1655659758636,
+    "relativePath": "scripts\\Row.ts"
+  },
+  "ee76edaa-dd95-448e-92c6-8e874cdeb82c": {
+    "asset": 1649869555218,
+    "meta": 1655659758652,
+    "relativePath": "scenes\\tutorial_ex.fire"
+  },
+  "66ce6c7b-8fe0-4f11-aaad-5abf78496337": {
+    "asset": 1646408018133,
+    "meta": 1655659758726,
+    "relativePath": "scripts\\Task.ts"
+  },
+  "6d44d2fa-0791-401e-836e-5540c763c6fc": {
+    "asset": 1649869861547,
+    "meta": 1655659758739,
+    "relativePath": "scenes\\tutorial_smul.fire"
+  },
+  "97a65f47-04c1-4960-9ddd-e9727f0b2ae7": {
+    "asset": 1646933108087,
+    "meta": 1655659758752,
+    "relativePath": "scripts\\ThemeList.ts"
+  },
+  "f4b2ba9e-ca5e-4d49-8c76-d58a8c813c0f": {
+    "asset": 1655292421572,
+    "meta": 1655659758754,
+    "relativePath": "scripts\\tutorial"
+  },
+  "c4a5f292-619a-4afc-a8c2-4b2e9386c197": {
+    "asset": 1655292421575,
+    "meta": 1655659758756,
+    "relativePath": "sprites\\Hand"
+  },
+  "a0f8ccc4-d83a-48dc-9943-12d0e3c0d08f": {
+    "asset": 1655292421640,
+    "meta": 1655659758768,
+    "relativePath": "sprites\\level"
+  },
+  "5c256fb9-7a1c-4ec2-a970-d767178d8bb9": {
+    "asset": 1655292421589,
+    "meta": 1655659758769,
+    "relativePath": "sprites\\MainView"
+  },
+  "bddbd528-992a-47cc-8fd4-2fc97069ff24": {
+    "asset": 1655292421616,
+    "meta": 1655659758771,
+    "relativePath": "sprites\\Menu"
+  },
+  "8fbec82e-a2f1-486f-a83f-6c2569ef7595": {
+    "asset": 1655292421627,
+    "meta": 1655659758772,
+    "relativePath": "sprites\\TableView"
+  },
+  "50d2ddbb-1b96-48f1-a213-a53e0dedfe90": {
+    "asset": 1655292421720,
+    "meta": 1655659758774,
+    "relativePath": "sprites\\tutorial"
+  },
+  "890f5544-4fdf-442d-a116-4563411025a8": {
+    "asset": 1646470998725,
+    "meta": 1655659758786,
+    "relativePath": "resources\\font\\Arial Rounded Bold.ttf"
+  },
+  "7003b0d9-916f-452d-92a9-4a471a6e6ed8": {
+    "asset": 1655292421433,
+    "meta": 1655659758793,
+    "relativePath": "resources\\prefabs\\lesson"
+  },
+  "13f817ad-71ff-4488-846f-fcd191dd10ee": {
+    "asset": 1655292421437,
+    "meta": 1655659758797,
+    "relativePath": "resources\\prefabs\\miniGame"
+  },
+  "e2a8d381-78fb-42f3-897f-88283d1801e0": {
+    "asset": 1655292421443,
+    "meta": 1655659758799,
+    "relativePath": "resources\\prefabs\\tutorial"
+  },
+  "90d99a35-1046-4dc6-acb9-521a3aa1a45b": {
+    "asset": 1655292421489,
+    "meta": 1655659758817,
+    "relativePath": "resources\\themes\\Glass"
+  },
+  "ecfccfa0-2f4f-4a0c-9b2d-29d9a7d7b0d8": {
+    "asset": 1655292421493,
+    "meta": 1655659758824,
+    "relativePath": "resources\\themes\\Green"
+  },
+  "31993268-25c4-489b-bc56-2b7715d0b6ee": {
+    "asset": 1655292421498,
+    "meta": 1655659758828,
+    "relativePath": "resources\\themes\\Honey"
+  },
+  "7c23ddf9-d237-4628-a959-9c306eb679b2": {
+    "asset": 1655292421503,
+    "meta": 1655659758834,
+    "relativePath": "resources\\themes\\Orange"
+  },
+  "86e44422-2aa5-4814-b172-8610c8cdc5ec": {
+    "asset": 1646408018022,
+    "meta": 1655659758837,
+    "relativePath": "prefabs\\tutorial\\Bead.prefab"
+  },
+  "7745c1a3-b562-4abf-876d-5f47cda7219d": {
+    "asset": 1655292421507,
+    "meta": 1655659758841,
+    "relativePath": "resources\\themes\\Purple"
+  },
+  "ba45a805-3279-4836-affa-9549b7869266": {
+    "asset": 1646408018025,
+    "meta": 1655659758845,
+    "relativePath": "prefabs\\tutorial\\Row.prefab"
+  },
+  "eea62dbe-bb80-4ce5-8a64-79b9ab986d08": {
+    "asset": 1646408018138,
+    "meta": 1655659758874,
+    "relativePath": "scripts\\challenge\\ChallengeManager.ts"
+  },
+  "c54cd70c-02bb-4ff8-b0bf-68adce2c0a7b": {
+    "asset": 1655292421550,
+    "meta": 1655659758923,
+    "relativePath": "scripts\\listLesson\\lesson0"
+  },
+  "ed469de3-8026-42e1-a3af-a45523ca2911": {
+    "asset": 1655292421551,
+    "meta": 1655659758931,
+    "relativePath": "scripts\\listLesson\\lesson1"
+  },
+  "4f800a68-02cc-44a7-a841-c2d732e7e02e": {
+    "asset": 1655292421553,
+    "meta": 1655659758933,
+    "relativePath": "scripts\\listLesson\\lesson2"
+  },
+  "db5f39e3-6fe9-44a9-9859-ee0c7ab6295a": {
+    "asset": 1655292421557,
+    "meta": 1655659758935,
+    "relativePath": "scripts\\listLesson\\lesson3"
+  },
+  "be691f72-0d9b-4ba3-8cbd-9ae5e5bb25f0": {
+    "asset": 1655660941585,
+    "meta": 1655743690032,
+    "relativePath": "scripts\\listLesson\\lesson4"
+  },
+  "9e58da72-9833-4ab9-b606-52bd766034da": {
+    "asset": 1654537480775,
+    "meta": 1655659759193,
+    "relativePath": "scripts\\manager\\SoundManager.js"
+  },
+  "71005e3a-eaa9-4d74-9958-c6a21f4637f0": {
+    "asset": 1646477024574,
+    "meta": 1655659759353,
+    "relativePath": "scripts\\menu\\ThemeOption.ts"
+  },
+  "b0722437-3f54-4246-b316-eec6f453e42c": {
+    "asset": 1646408018141,
+    "meta": 1655659759390,
+    "relativePath": "scripts\\menu\\ThemeSelector.ts"
+  },
+  "87482c0e-45cf-4a35-ac35-56700ecc7db4": {
+    "asset": 1653933349576,
+    "meta": 1655659759458,
+    "relativePath": "scripts\\miniGame\\ChooseNumber.ts"
+  },
+  "05c01b83-294b-4b90-8c85-8c370ba3bf3b": {
+    "asset": 1653933360404,
+    "meta": 1655659759524,
+    "relativePath": "scripts\\miniGame\\NumberSeed.ts"
+  },
+  "583e3f58-a1ea-493c-8eb4-61edd53a1b73": {
+    "asset": 1655292421568,
+    "meta": 1655659759528,
+    "relativePath": "scripts\\miniGame\\raphael"
+  },
+  "cf9d9a76-88c1-4eb5-92cc-7e81717684dc": {
+    "asset": 1648641064883,
+    "meta": 1655659759532,
+    "relativePath": "animation\\hand\\TAY.atlas"
+  },
+  "ed6852e6-1d17-4d4a-97a2-c5e1f826a622": {
+    "asset": 1655292421570,
+    "meta": 1655659759534,
+    "relativePath": "scripts\\miniGame\\writeNumber"
+  },
+  "8c5fbb4d-93ea-4d82-9aa4-7f00f598d421": {
+    "asset": 1646408018144,
+    "meta": 1655659759576,
+    "relativePath": "scripts\\playground\\PlaygroundLoader.ts"
+  },
+  "82751bf6-a77b-4d7d-9b3d-39ed09a0f3ad": {
+    "asset": 1646408018147,
+    "meta": 1655659759660,
+    "relativePath": "scripts\\tutorial\\TutorialManager.ts"
+  },
+  "8672842b-86f0-4843-8cae-8fa4de3413a1": {
+    "asset": 1646408018148,
+    "meta": 1655659759673,
+    "relativePath": "scripts\\tutorial\\TutorialNode.ts"
+  },
+  "f569be1d-d0d1-42ce-9282-5bbed5d0cf50": {
+    "asset": 1648305607823,
+    "meta": 1655659759707,
+    "relativePath": "sprites\\level\\back.png"
+  },
+  "8cb7caf2-c973-441e-8db9-b46d5d5b43f5": {
+    "asset": 1648660076679,
+    "meta": 1655659759713,
+    "relativePath": "sprites\\Hand\\hand1.png"
+  },
+  "ee24be9d-54e4-4479-bd74-3e7baa92f254": {
+    "asset": 1648641064885,
+    "meta": 1655659759722,
+    "relativePath": "animation\\hand\\TAY.png"
+  },
+  "f108fa60-6329-4157-b73b-dc1db68a21e5": {
+    "asset": 1648660076680,
+    "meta": 1655659759727,
+    "relativePath": "sprites\\Hand\\hand3.png"
+  },
+  "062be40c-169b-4df4-8e65-8e840fbe8dfc": {
+    "asset": 1648660076680,
+    "meta": 1655659759731,
+    "relativePath": "sprites\\Hand\\hand2.png"
+  },
+  "b7f35b88-d94d-4856-b848-4fc329f4e2b5": {
+    "asset": 1648305607819,
+    "meta": 1655659759758,
+    "relativePath": "sprites\\level\\star1.png"
+  },
+  "cf89dd65-3dc2-4a2a-92ca-2ececbe71844": {
+    "asset": 1648305607819,
+    "meta": 1655659759763,
+    "relativePath": "sprites\\level\\leson.png"
+  },
+  "1ab6cf11-791f-42c9-b167-37f439314738": {
+    "asset": 1648305607819,
+    "meta": 1655659759766,
+    "relativePath": "sprites\\level\\menu.png"
+  },
+  "0584cf48-6ba1-4def-a0f5-964807af8af6": {
+    "asset": 1648305607821,
+    "meta": 1655659759793,
+    "relativePath": "sprites\\level\\bg.png"
+  },
+  "6b6220bc-5da3-4101-8463-6273483a1c4a": {
+    "asset": 1653409610419,
+    "meta": 1655659759831,
+    "relativePath": "resources\\video\\tinhtien.mp4"
+  },
+  "f5bde0bb-7418-4949-aad8-a7863f236dc3": {
+    "asset": 1648305607823,
+    "meta": 1655659759802,
+    "relativePath": "sprites\\level\\star2.png"
+  },
+  "589c0e34-e509-471a-a626-c0867133752f": {
+    "asset": 1646470387985,
+    "meta": 1655659759820,
+    "relativePath": "sprites\\MainView\\btchallenge.png"
+  },
+  "8882bb59-331e-41f6-be69-7e89f8dabe92": {
+    "asset": 1646470387988,
+    "meta": 1655659759828,
+    "relativePath": "sprites\\MainView\\bg.png"
+  },
+  "3d7e06f0-c1a2-4d62-b6ff-ebe9330fd2d4": {
+    "asset": 1646470387985,
+    "meta": 1655659759836,
+    "relativePath": "sprites\\MainView\\btmussic.png"
+  },
+  "df904b8c-68ec-4978-bb26-72a6a71d73ac": {
+    "asset": 1646470387985,
+    "meta": 1655659759839,
+    "relativePath": "sprites\\MainView\\btplay.png"
+  },
+  "7c578867-62b1-465b-a0bf-0fdbe587c2dd": {
+    "asset": 1648305616476,
+    "meta": 1655659759855,
+    "relativePath": "sprites\\level\\chonlevel.jpg"
+  },
+  "ae3f652e-8ed5-4623-b845-5ff1a1091e9f": {
+    "asset": 1646470387985,
+    "meta": 1655659759871,
+    "relativePath": "sprites\\MainView\\btsetting.png"
+  },
+  "6944f20b-1c2d-453c-b0bf-15a52f96e22b": {
+    "asset": 1646470387987,
+    "meta": 1655659759879,
+    "relativePath": "sprites\\MainView\\bttrogiup.png"
+  },
+  "ce345f22-9057-41fb-baa7-5c1a6e91c77d": {
+    "asset": 1646470387985,
+    "meta": 1655659759883,
+    "relativePath": "sprites\\MainView\\btshop.png"
+  },
+  "9185dd60-467a-4b14-bb93-90db3f07c206": {
+    "asset": 1646470387988,
+    "meta": 1655659759887,
+    "relativePath": "sprites\\MainView\\logo.png"
+  },
+  "60e7003f-b20e-47c1-b843-cb9b8003cac4": {
+    "asset": 1646470821024,
+    "meta": 1655659759900,
+    "relativePath": "sprites\\Menu\\addition.png"
+  },
+  "d6394970-5dec-476c-90cb-2a62831ee7c7": {
+    "asset": 1646470821025,
+    "meta": 1655659759916,
+    "relativePath": "sprites\\Menu\\addtion2.png"
+  },
+  "fe85b06a-0722-4f83-aaab-bab67cb26acc": {
+    "asset": 1646470821025,
+    "meta": 1655659759925,
+    "relativePath": "sprites\\Menu\\basic.png"
+  },
+  "08a731dd-a897-4ff3-a597-d36401095fca": {
+    "asset": 1646470821033,
+    "meta": 1655659759935,
+    "relativePath": "sprites\\Menu\\bt.png"
+  },
+  "25e7adbb-3797-4d1d-9321-87a8731bd6c1": {
+    "asset": 1646470821045,
+    "meta": 1655659759959,
+    "relativePath": "sprites\\Menu\\btback.png"
+  },
+  "23e3fd04-afb5-4912-b493-4d5d59ffc106": {
+    "asset": 1648641064883,
+    "meta": 1655659763828,
+    "relativePath": "animation\\hand\\TAY.json"
+  },
+  "13ef91f5-129c-42a1-9723-2c39c5a709e2": {
+    "asset": 1646470434665,
+    "meta": 1655659759977,
+    "relativePath": "sprites\\MainView\\playgame.jpg"
+  },
+  "fb49bb02-38b2-4f7c-a0e4-48dee44eac47": {
+    "asset": 1646470820965,
+    "meta": 1655659759982,
+    "relativePath": "sprites\\Menu\\btx.png"
+  },
+  "6b518cc8-38b4-46cb-baeb-473ba4cc4289": {
+    "asset": 1646470821046,
+    "meta": 1655659759985,
+    "relativePath": "sprites\\Menu\\bg.png"
+  },
+  "42eef8ce-884e-4500-a33b-9aeb0ac3af4f": {
+    "asset": 1646470821025,
+    "meta": 1655659759993,
+    "relativePath": "sprites\\Menu\\divi2.png"
+  },
+  "73593a48-b163-4009-b8f9-d78f70cfe661": {
+    "asset": 1646470821026,
+    "meta": 1655659760002,
+    "relativePath": "sprites\\Menu\\challenge.png"
+  },
+  "5166b0d6-9bcb-4241-afd9-c1866af06a9d": {
+    "asset": 1646470821024,
+    "meta": 1655659760022,
+    "relativePath": "sprites\\Menu\\division.png"
+  },
+  "c209c243-7d90-4166-8d73-035fb9016f46": {
+    "asset": 1646470820965,
+    "meta": 1655659760035,
+    "relativePath": "sprites\\Menu\\hat.png"
+  },
+  "08508510-ad13-400c-bfc2-c8d988e57944": {
+    "asset": 1646470821023,
+    "meta": 1655659760043,
+    "relativePath": "sprites\\Menu\\multiphi1.png"
+  },
+  "8f6f47cd-5a75-49ea-91af-e677ed9c09bb": {
+    "asset": 1646470821024,
+    "meta": 1655659760047,
+    "relativePath": "sprites\\Menu\\multiphi2.png"
+  },
+  "92bcc794-9dea-44c7-a609-94398209a0ec": {
+    "asset": 1646470821023,
+    "meta": 1655659760062,
+    "relativePath": "sprites\\Menu\\multipliaction.png"
+  },
+  "d4e63045-dc7b-47bc-a385-8ba94d69bcc1": {
+    "asset": 1646474405721,
+    "meta": 1655659760081,
+    "relativePath": "sprites\\Menu\\map 4.jpg"
+  },
+  "e6f58047-65d1-4af0-a8ce-c1ea5279225e": {
+    "asset": 1646470821024,
+    "meta": 1655659760087,
+    "relativePath": "sprites\\Menu\\subtr.png"
+  },
+  "97b71e40-2db1-4dbf-917a-bc62127f5a1c": {
+    "asset": 1646470821027,
+    "meta": 1655659760091,
+    "relativePath": "sprites\\Menu\\playground.png"
+  },
+  "0323a93b-9093-4aed-bfdb-a08ef5006bae": {
+    "asset": 1646470821024,
+    "meta": 1655659760094,
+    "relativePath": "sprites\\Menu\\suptraction.png"
+  },
+  "a0a87067-c53d-4c29-b382-e533db0f29d9": {
+    "asset": 1646470821023,
+    "meta": 1655659760114,
+    "relativePath": "sprites\\Menu\\popup.png"
+  },
+  "4f170690-a134-4019-bef5-c46988cb4bae": {
+    "asset": 1646491026844,
+    "meta": 1655659760126,
+    "relativePath": "sprites\\TableView\\back.png"
+  },
+  "ae7205f2-649a-42e0-a713-bfb4a989980f": {
+    "asset": 1646470821028,
+    "meta": 1655659760129,
+    "relativePath": "sprites\\Menu\\themes.png"
+  },
+  "fda1316a-fafb-4c59-bc65-01d2effe2ca6": {
+    "asset": 1646470821029,
+    "meta": 1655659760132,
+    "relativePath": "sprites\\Menu\\tutorial.png"
+  },
+  "d2de6333-16ef-42ae-95c3-cccf7ed92629": {
+    "asset": 1646491026844,
+    "meta": 1655659760161,
+    "relativePath": "sprites\\TableView\\hat.png"
+  },
+  "95e58ca7-e544-4e14-9704-240f15913624": {
+    "asset": 1646491026844,
+    "meta": 1655659760164,
+    "relativePath": "sprites\\TableView\\bg.png"
+  },
+  "dc67e8b5-43ab-4775-a32a-fcc03db1ce23": {
+    "asset": 1655292421670,
+    "meta": 1655659760198,
+    "relativePath": "sprites\\tutorial\\addition"
+  },
+  "2fc63e74-2710-470a-8d28-a079370fd285": {
+    "asset": 1655292421684,
+    "meta": 1655659760201,
+    "relativePath": "sprites\\tutorial\\basics"
+  },
+  "052d81a8-2bf3-4baa-af49-b5e8a4e9905b": {
+    "asset": 1646926237653,
+    "meta": 1655659760168,
+    "relativePath": "sprites\\TableView\\hbar.png"
+  },
+  "33f10ce3-5aac-4efd-ae01-3938f3cc122f": {
+    "asset": 1646926279763,
+    "meta": 1655659760191,
+    "relativePath": "sprites\\TableView\\left.png"
+  },
+  "25b968f3-c800-409c-bf9d-c5993d9ac402": {
+    "asset": 1655292421694,
+    "meta": 1655659760207,
+    "relativePath": "sprites\\tutorial\\division"
+  },
+  "1931e0cb-f39b-4154-93ef-3bd5a4b8cea0": {
+    "asset": 1655292421707,
+    "meta": 1655659760211,
+    "relativePath": "sprites\\tutorial\\dmultiplication"
+  },
+  "a9821d8c-7dfd-4fd0-bf2a-dcf1a1e30af2": {
+    "asset": 1646491026850,
+    "meta": 1655659760196,
+    "relativePath": "sprites\\TableView\\pheptinh.png"
+  },
+  "abd6e16c-e716-4ad7-a3a7-585034a97c52": {
+    "asset": 1655292421719,
+    "meta": 1655659760218,
+    "relativePath": "sprites\\tutorial\\smultiplication"
+  },
+  "5cde39ca-308b-42c8-9345-a71eeb21d117": {
+    "asset": 1655292421733,
+    "meta": 1655659760221,
+    "relativePath": "sprites\\tutorial\\subtraction"
+  },
+  "8fea3aa2-e3a7-40d5-92fe-1ab4cb5a56e6": {
+    "asset": 1646491026847,
+    "meta": 1655659760204,
+    "relativePath": "sprites\\TableView\\khung.png"
+  },
+  "f8008b79-648e-428c-82f5-33f4a59a99bf": {
+    "asset": 1646491026850,
+    "meta": 1655659760215,
+    "relativePath": "sprites\\TableView\\menu.png"
+  },
+  "018525e3-2428-4119-8480-4cda971b08f0": {
+    "asset": 1656698209800,
+    "meta": 1656698209810,
+    "relativePath": "resources\\prefabs\\lesson\\Lesson0.prefab"
+  },
+  "9db3cedf-d3f4-46ee-bd62-a016da739f47": {
+    "asset": 1656266185400,
+    "meta": 1656266185420,
+    "relativePath": "resources\\prefabs\\lesson\\Lesson2.prefab"
+  },
+  "7cf2ec4c-768b-43ff-a6f6-96788803285a": {
+    "asset": 1656266193487,
+    "meta": 1656266193504,
+    "relativePath": "resources\\prefabs\\lesson\\Lesson3.prefab"
+  },
+  "c5e782fc-c36f-46c3-a560-581ceb3a5dab": {
+    "asset": 1656266173532,
+    "meta": 1656266173552,
+    "relativePath": "resources\\prefabs\\lesson\\Lesson1.prefab"
+  },
+  "adfaa652-5eed-4a36-abd5-6944340ed996": {
+    "asset": 1646926255091,
+    "meta": 1655659760224,
+    "relativePath": "sprites\\TableView\\thanhngang.png"
+  },
+  "f348480c-d4fc-49a1-ac05-2f98882f0823": {
+    "asset": 1653932148869,
+    "meta": 1655659760291,
+    "relativePath": "resources\\prefabs\\miniGame\\ChooseNumber.prefab"
+  },
+  "dba99e61-0ad7-44f1-8fa0-31e6a5286842": {
+    "asset": 1646491072257,
+    "meta": 1655659760227,
+    "relativePath": "sprites\\TableView\\banchoi.jpg"
+  },
+  "0a6903da-51dc-48fb-aec6-4af5a1b85bc5": {
+    "asset": 1654794740504,
+    "meta": 1655659760299,
+    "relativePath": "resources\\prefabs\\miniGame\\NodeWrite.prefab"
+  },
+  "271ec085-ded8-4b15-9cfb-645d657402b8": {
+    "asset": 1653932183127,
+    "meta": 1655659760304,
+    "relativePath": "resources\\prefabs\\miniGame\\NumberSeed.prefab"
+  },
+  "9db0fd5f-9dd7-4ed4-b417-0f6116a05236": {
+    "asset": 1653932202944,
+    "meta": 1655659760325,
+    "relativePath": "resources\\prefabs\\miniGame\\WriteNumber.prefab"
+  },
+  "a2529976-baa7-40f8-94dc-2a54607dbe59": {
+    "asset": 1646408018031,
+    "meta": 1655659760334,
+    "relativePath": "resources\\prefabs\\tutorial\\Addition.prefab"
+  },
+  "594efdd7-6b65-4cf6-85e6-16a380236a50": {
+    "asset": 1646408018033,
+    "meta": 1655659760338,
+    "relativePath": "resources\\prefabs\\tutorial\\Basics.prefab"
+  },
+  "ebc382ff-ceb2-4a7c-bcab-cde463a1db4e": {
+    "asset": 1646408018038,
+    "meta": 1655659760342,
+    "relativePath": "resources\\prefabs\\tutorial\\Division.prefab"
+  },
+  "a717bd2b-e1fa-4b96-a7d7-c62998753790": {
+    "asset": 1646926237653,
+    "meta": 1655659760309,
+    "relativePath": "sprites\\TableView\\vbar.png"
+  },
+  "13908eba-c5b2-461c-a29a-825722e2ca3f": {
+    "asset": 1646408018035,
+    "meta": 1655659760346,
+    "relativePath": "resources\\prefabs\\tutorial\\DMultiplication.prefab"
+  },
+  "dce2370f-855a-4f0e-841e-aac2d5a3a335": {
+    "asset": 1646408018040,
+    "meta": 1655659760351,
+    "relativePath": "resources\\prefabs\\tutorial\\SMultiplication.prefab"
+  },
+  "d0dafe00-b513-4e3e-b91c-6fc16633398a": {
+    "asset": 1646408018364,
+    "meta": 1655659760315,
+    "relativePath": "sprites\\tutorial\\down_arrow.png"
+  },
+  "38759a2e-d0e8-4e45-a7ea-5a429b9abb7e": {
+    "asset": 1646408018041,
+    "meta": 1655659760358,
+    "relativePath": "resources\\prefabs\\tutorial\\Subtraction.prefab"
+  },
+  "8b8b7553-7d1a-4050-925c-e21c613b70c5": {
+    "asset": 1646933100264,
+    "meta": 1655659760385,
+    "relativePath": "resources\\themes\\Glass\\bead_inactive.png"
+  },
+  "84fdc426-42e3-4dab-886a-b774cc8dd3d5": {
+    "asset": 1646933100276,
+    "meta": 1655659760390,
+    "relativePath": "resources\\themes\\Glass\\bead_active.png"
+  },
+  "5a2ae954-cb90-47bd-ae3c-a41c8a74f5bf": {
+    "asset": 1646933100276,
+    "meta": 1655659760394,
+    "relativePath": "resources\\themes\\Glass\\bead_focused.png"
+  },
+  "784e895e-ae58-499c-8273-21ca825eba94": {
+    "asset": 1646933100264,
+    "meta": 1655659760397,
+    "relativePath": "resources\\themes\\Glass\\hbar.png"
+  },
+  "c04ca929-a9b4-4318-b34c-16bfbeb5fc92": {
+    "asset": 1646933100264,
+    "meta": 1655659760401,
+    "relativePath": "resources\\themes\\Glass\\vbar.png"
+  },
+  "99db4ddb-2651-4c66-ac38-3687b1c15f11": {
+    "asset": 1646933100264,
+    "meta": 1655659760417,
+    "relativePath": "resources\\themes\\Glass\\mbar.png"
+  },
+  "ee98ee14-9351-420e-b54e-caeb1675fee2": {
+    "asset": 1646925990691,
+    "meta": 1655659760422,
+    "relativePath": "resources\\themes\\Green\\bead_focused.png"
+  },
+  "a7b9178d-0ffd-4d30-af99-98f306b28dd4": {
+    "asset": 1646925980714,
+    "meta": 1655659760429,
+    "relativePath": "resources\\themes\\Green\\bead_active.png"
+  },
+  "dff77665-86ac-4ab6-924e-6334a524496e": {
+    "asset": 1646925999745,
+    "meta": 1655659760432,
+    "relativePath": "resources\\themes\\Green\\bead_inactive.png"
+  },
+  "b03c4939-2fd1-4d01-9482-08e31fdc7a4b": {
+    "asset": 1646933100266,
+    "meta": 1655659760438,
+    "relativePath": "resources\\themes\\Glass\\vborder.png"
+  },
+  "9b924d04-4855-4063-8ca5-c60d0a6360dc": {
+    "asset": 1646925822694,
+    "meta": 1655659760445,
+    "relativePath": "resources\\themes\\Green\\hbar.png"
+  },
+  "6cbafa33-d03e-4b0b-826f-9f99a0ae8141": {
+    "asset": 1646927574534,
+    "meta": 1655659760461,
+    "relativePath": "resources\\themes\\Green\\mbar.png"
+  },
+  "d9c7b513-4559-4202-ac84-07c2288a0cb1": {
+    "asset": 1646925810397,
+    "meta": 1655659760466,
+    "relativePath": "resources\\themes\\Green\\vbar.png"
+  },
+  "06288482-ddf9-4d6c-8b67-6b83aa59f0e7": {
+    "asset": 1646927664750,
+    "meta": 1655659760471,
+    "relativePath": "resources\\themes\\Green\\vborder.png"
+  },
+  "8e9fd1bf-c1a5-40d2-a44a-8d1195d84b10": {
+    "asset": 1646932874070,
+    "meta": 1655659760476,
+    "relativePath": "resources\\themes\\Honey\\bead_active.png"
+  },
+  "270fe661-560e-4b05-a46f-69925ac977d3": {
+    "asset": 1646932874070,
+    "meta": 1655659760479,
+    "relativePath": "resources\\themes\\Honey\\bead_focused.png"
+  },
+  "029a0b49-b51e-491e-b6d5-1b21ab47d770": {
+    "asset": 1646932874070,
+    "meta": 1655659760495,
+    "relativePath": "resources\\themes\\Honey\\bead_inactive.png"
+  },
+  "bd68c069-1fc9-4abb-a1ee-a9cca45b32a3": {
+    "asset": 1646932874070,
+    "meta": 1655659760504,
+    "relativePath": "resources\\themes\\Honey\\hbar.png"
+  },
+  "37dc990a-0b7c-4c1b-a999-081fde129519": {
+    "asset": 1646932874070,
+    "meta": 1655659760508,
+    "relativePath": "resources\\themes\\Honey\\mbar.png"
+  },
+  "c38a6262-226c-4e53-a37c-2d698db59257": {
+    "asset": 1646932874202,
+    "meta": 1655659760512,
+    "relativePath": "resources\\themes\\Honey\\vbar.png"
+  },
+  "9caef3ac-0d17-4d95-91db-dd1900d53ae7": {
+    "asset": 1646932874202,
+    "meta": 1655659760516,
+    "relativePath": "resources\\themes\\Honey\\vborder.png"
+  },
+  "985afe6d-c632-4fdd-84a3-12cc51cfe7a2": {
+    "asset": 1646927085995,
+    "meta": 1655659760533,
+    "relativePath": "resources\\themes\\Orange\\bead_active.png"
+  },
+  "0b247420-257d-422a-8b77-2ae8802ec6aa": {
+    "asset": 1646927101386,
+    "meta": 1655659760541,
+    "relativePath": "resources\\themes\\Orange\\bead_focused.png"
+  },
+  "34061a0e-43c7-42c2-a2a9-a18501c775e2": {
+    "asset": 1646927115239,
+    "meta": 1655659760549,
+    "relativePath": "resources\\themes\\Orange\\bead_inactive.png"
+  },
+  "2cad8fe2-e27d-41f3-a7c1-854616267a22": {
+    "asset": 1646925810397,
+    "meta": 1655659760552,
+    "relativePath": "resources\\themes\\Orange\\vbar.png"
+  },
+  "29c8c825-93ff-4053-ac61-3376f559eba1": {
+    "asset": 1646925822694,
+    "meta": 1655659760555,
+    "relativePath": "resources\\themes\\Orange\\hbar.png"
+  },
+  "1275a660-6263-438b-891c-5df3d6e24ef4": {
+    "asset": 1646927574534,
+    "meta": 1655659760558,
+    "relativePath": "resources\\themes\\Orange\\mbar.png"
+  },
+  "fb34fb89-8616-4acd-b538-255a242c5c39": {
+    "asset": 1648569884775,
+    "meta": 1655659760685,
+    "relativePath": "scripts\\listLesson\\lesson1\\Lesson1.ts"
+  },
+  "959834a4-510e-4455-8ff9-65de7e73c713": {
+    "asset": 1646932495837,
+    "meta": 1655659760584,
+    "relativePath": "resources\\themes\\Purple\\bead_active.png"
+  },
+  "38fd1c62-eb98-498c-8e49-f136ec973cee": {
+    "asset": 1646932495837,
+    "meta": 1655659760588,
+    "relativePath": "resources\\themes\\Purple\\bead_focused.png"
+  },
+  "34e648e5-5e60-47fd-b492-b870038fe138": {
+    "asset": 1648388520212,
+    "meta": 1655659760717,
+    "relativePath": "scripts\\listLesson\\lesson2\\Lesson2.ts"
+  },
+  "c75a5375-1ee0-4e2e-a65c-79faf788e0fb": {
+    "asset": 1646932495837,
+    "meta": 1655659760591,
+    "relativePath": "resources\\themes\\Purple\\hbar.png"
+  },
+  "3b2d89e1-7ccd-4115-abe8-f67d4f235831": {
+    "asset": 1648389437464,
+    "meta": 1655659760753,
+    "relativePath": "scripts\\listLesson\\lesson2\\Node1_2.ts"
+  },
+  "643c50e3-9d55-497b-8fec-eff63e2288ef": {
+    "asset": 1646927664750,
+    "meta": 1655659760687,
+    "relativePath": "resources\\themes\\Orange\\vborder.png"
+  },
+  "264159ef-c9f6-46af-86f2-3865bd4d194b": {
+    "asset": 1648570844426,
+    "meta": 1655659760807,
+    "relativePath": "scripts\\listLesson\\lesson2\\Node3_2.ts"
+  },
+  "c8dae111-b3a0-4c7a-84ac-d72cb7e9ab68": {
+    "asset": 1650208009264,
+    "meta": 1655659760886,
+    "relativePath": "scripts\\listLesson\\lesson2\\Node4_2.ts"
+  },
+  "74e944cc-02ed-4030-bea4-2479f7cded47": {
+    "asset": 1648660485628,
+    "meta": 1655659760927,
+    "relativePath": "scripts\\listLesson\\lesson3\\Node1_3.ts"
+  },
+  "021c1c29-3338-4e8c-a437-d7851e98c3c6": {
+    "asset": 1646932495837,
+    "meta": 1655659760721,
+    "relativePath": "resources\\themes\\Purple\\bead_inactive.png"
+  },
+  "0cf9c96a-634d-496d-9920-a0476489fa7e": {
+    "asset": 1648662809868,
+    "meta": 1655659760956,
+    "relativePath": "scripts\\listLesson\\lesson3\\Node2_3.ts"
+  },
+  "28ebbb4d-5c99-44f5-9b78-bbd69e82a200": {
+    "asset": 1648663152090,
+    "meta": 1655659761009,
+    "relativePath": "scripts\\listLesson\\lesson3\\Node4_3.ts"
+  },
+  "e44febbc-9b0f-45c0-970b-0fb4659e4e3d": {
+    "asset": 1648663148870,
+    "meta": 1655659761047,
+    "relativePath": "scripts\\listLesson\\lesson3\\Node5_3.ts"
+  },
+  "42929a41-26f9-4a0c-8dff-20fc0934dd15": {
+    "asset": 1646932495844,
+    "meta": 1655659760762,
+    "relativePath": "resources\\themes\\Purple\\mbar.png"
+  },
+  "70768dca-370f-44ee-9653-9c8470da9101": {
+    "asset": 1648663138863,
+    "meta": 1655659761075,
+    "relativePath": "scripts\\listLesson\\lesson3\\Node6_3.ts"
+  },
+  "983d59cb-e208-4569-b279-7f54e93232b3": {
+    "asset": 1648663142042,
+    "meta": 1655659761102,
+    "relativePath": "scripts\\listLesson\\lesson3\\Node7_3.ts"
+  },
+  "803d3ca7-e8b9-4c85-a675-90ac5752efc1": {
+    "asset": 1648663145949,
+    "meta": 1655659761126,
+    "relativePath": "scripts\\listLesson\\lesson3\\Node8_3.ts"
+  },
+  "bbf76bcb-6f1f-42e1-9ca5-98f3c727c93c": {
+    "asset": 1655057770324,
+    "meta": 1655659761165,
+    "relativePath": "scripts\\listLesson\\lesson4\\Node1_4.ts"
+  },
+  "47a3a461-432d-4a39-a353-548df16e920e": {
+    "asset": 1655057765575,
+    "meta": 1655659761188,
+    "relativePath": "scripts\\listLesson\\lesson4\\Node2_4.ts"
+  },
+  "3ca723ff-f6ac-46ee-85ce-807b583c181f": {
+    "asset": 1655292421566,
+    "meta": 1655659761248,
+    "relativePath": "scripts\\miniGame\\raphael\\component"
+  },
+  "7e0399b4-c198-4d68-8aa8-81832beae098": {
+    "asset": 1651501751198,
+    "meta": 1655659761541,
+    "relativePath": "scripts\\miniGame\\raphael\\R.path.js"
+  },
+  "7477e343-e41f-403b-921f-c87667a38462": {
+    "asset": 1653928952260,
+    "meta": 1655659761577,
+    "relativePath": "scripts\\miniGame\\raphael\\simplify.js"
+  },
+  "03cb6968-1f25-47e4-a8f5-d81a59fda3d9": {
+    "asset": 1655292421569,
+    "meta": 1655659761580,
+    "relativePath": "scripts\\miniGame\\raphael\\utils"
+  },
+  "ba084aac-de54-48cf-b40c-40cb82c0e075": {
+    "asset": 1655658126311,
+    "meta": 1655659761606,
+    "relativePath": "scripts\\miniGame\\writeNumber\\NodeWrite.js"
+  },
+  "92a78079-8ad3-44d5-9091-978e06c78fdb": {
+    "asset": 1653933501122,
+    "meta": 1655659761647,
+    "relativePath": "scripts\\miniGame\\writeNumber\\WriteNumber.ts"
+  },
+  "407864fc-ec66-420c-9c1e-ba7bd3187175": {
+    "asset": 1654535201741,
+    "meta": 1655659761670,
+    "relativePath": "resources\\sounds\\mouse_click.mp3"
+  },
+  "ceacc33b-d2c1-4b03-b107-8f7c5e323995": {
+    "asset": 1646932495845,
+    "meta": 1655659761678,
+    "relativePath": "resources\\themes\\Purple\\vbar.png"
+  },
+  "769256f8-32ed-40e4-96fa-66aa29b51c2a": {
+    "asset": 1646932495844,
+    "meta": 1655659761696,
+    "relativePath": "resources\\themes\\Purple\\vborder.png"
+  },
+  "1a1de9ef-2dc6-4a8c-80c9-dd08293d8c7a": {
+    "asset": 1646408018155,
+    "meta": 1655659761700,
+    "relativePath": "sprites\\tutorial\\addition\\tut_add_01c.png"
+  },
+  "50e814aa-8520-441f-be90-54c88f9ca09e": {
+    "asset": 1646408018157,
+    "meta": 1655659761704,
+    "relativePath": "sprites\\tutorial\\addition\\tut_add_01d.png"
+  },
+  "eb174bc1-012c-48da-8592-89715ce3543d": {
+    "asset": 1646408018155,
+    "meta": 1655659761708,
+    "relativePath": "sprites\\tutorial\\addition\\tut_add_01b.png"
+  },
+  "612ca57c-bfb7-4451-8b61-ff5c1051b991": {
+    "asset": 1646408018153,
+    "meta": 1655659761720,
+    "relativePath": "sprites\\tutorial\\addition\\tut_add_01a.png"
+  },
+  "932f8787-c2c7-4da6-9221-5730549e5e97": {
+    "asset": 1646408018157,
+    "meta": 1655659761749,
+    "relativePath": "sprites\\tutorial\\addition\\tut_add_01e.png"
+  },
+  "804e5c5a-2ebb-48b4-83b7-aab66e1dc7b6": {
+    "asset": 1646408018158,
+    "meta": 1655659761753,
+    "relativePath": "sprites\\tutorial\\addition\\tut_add_02a.png"
+  },
+  "b712a647-ff3f-4d41-b8aa-e46279196595": {
+    "asset": 1646408018159,
+    "meta": 1655659761765,
+    "relativePath": "sprites\\tutorial\\addition\\tut_add_02b.png"
+  },
+  "7cf7fdcb-c6c3-4e14-a97a-3aa0845ec7e1": {
+    "asset": 1646408018161,
+    "meta": 1655659761768,
+    "relativePath": "sprites\\tutorial\\addition\\tut_add_02c.png"
+  },
+  "2837d891-be41-463f-8ecc-bb4105ccddfa": {
+    "asset": 1646408018162,
+    "meta": 1655659761778,
+    "relativePath": "sprites\\tutorial\\addition\\tut_add_02d.png"
+  },
+  "be364995-bc17-4ccc-8192-379a21163114": {
+    "asset": 1646408018163,
+    "meta": 1655659761791,
+    "relativePath": "sprites\\tutorial\\addition\\tut_add_02e.png"
+  },
+  "258f6972-a0b8-487f-9a88-f9d134164618": {
+    "asset": 1646408018164,
+    "meta": 1655659761812,
+    "relativePath": "sprites\\tutorial\\addition\\tut_add_02f.png"
+  },
+  "784a40aa-d48a-48aa-a72c-514e57ecbe19": {
+    "asset": 1646408018168,
+    "meta": 1655659761822,
+    "relativePath": "sprites\\tutorial\\addition\\tut_add_02h.png"
+  },
+  "c6d028d2-1e2a-421a-acff-e3f2e3dca546": {
+    "asset": 1646408018167,
+    "meta": 1655659761827,
+    "relativePath": "sprites\\tutorial\\addition\\tut_add_02g.png"
+  },
+  "0e8621a6-f0e9-4392-91e5-ee8f7bc40bfc": {
+    "asset": 1646408018169,
+    "meta": 1655659761829,
+    "relativePath": "sprites\\tutorial\\addition\\tut_add_02i.png"
+  },
+  "b4829fba-ded9-400d-ae88-8fc4fc9f02d2": {
+    "asset": 1646408018170,
+    "meta": 1655659761842,
+    "relativePath": "sprites\\tutorial\\addition\\tut_add_02j.png"
+  },
+  "397c74e1-cb47-4cb4-a2c1-9edf60deda56": {
+    "asset": 1646408018172,
+    "meta": 1655659761860,
+    "relativePath": "sprites\\tutorial\\addition\\tut_add_03a.png"
+  },
+  "9ef6c1e8-f9ce-400b-8975-d8294cea6a3f": {
+    "asset": 1646408018173,
+    "meta": 1655659761874,
+    "relativePath": "sprites\\tutorial\\addition\\tut_add_03b.png"
+  },
+  "6628f6d9-ac7b-4a32-95c8-f9c3c8f6bfdf": {
+    "asset": 1646408018176,
+    "meta": 1655659761880,
+    "relativePath": "sprites\\tutorial\\addition\\tut_add_03c.png"
+  },
+  "961853c3-c644-4e42-8a59-71a297d91a94": {
+    "asset": 1646408018178,
+    "meta": 1655659761883,
+    "relativePath": "sprites\\tutorial\\addition\\tut_add_03d.png"
+  },
+  "f380ffdc-c3b1-417f-9c20-9417ee71f305": {
+    "asset": 1646408018181,
+    "meta": 1655659761890,
+    "relativePath": "sprites\\tutorial\\addition\\tut_add_03f.png"
+  },
+  "05c70009-424a-4f36-8d8e-3445118082ee": {
+    "asset": 1646408018179,
+    "meta": 1655659761901,
+    "relativePath": "sprites\\tutorial\\addition\\tut_add_03e.png"
+  },
+  "3adadd94-7904-43d7-9de4-478cac6c5da4": {
+    "asset": 1646408018185,
+    "meta": 1655659761920,
+    "relativePath": "sprites\\tutorial\\addition\\tut_add_03g.png"
+  },
+  "64135caf-fe7e-4d03-a533-611ac743d524": {
+    "asset": 1646408018211,
+    "meta": 1655659761938,
+    "relativePath": "sprites\\tutorial\\addition\\tut_add_04b.png"
+  },
+  "15940b12-0960-4383-bc02-34892983245e": {
+    "asset": 1646408018229,
+    "meta": 1655659761943,
+    "relativePath": "sprites\\tutorial\\addition\\tut_add_04c.png"
+  },
+  "49e633ac-ae13-4d4c-b5cb-a113ac8062a2": {
+    "asset": 1646408018187,
+    "meta": 1655659761946,
+    "relativePath": "sprites\\tutorial\\addition\\tut_add_04a.png"
+  },
+  "711b2f52-b73f-4b2e-80ac-ada4d09ddd2e": {
+    "asset": 1646408018238,
+    "meta": 1655659761949,
+    "relativePath": "sprites\\tutorial\\addition\\tut_add_04c2.png"
+  },
+  "093b3fbf-6f83-45e3-9bcd-e8365af2bc31": {
+    "asset": 1646408018240,
+    "meta": 1655659761980,
+    "relativePath": "sprites\\tutorial\\addition\\tut_add_04d.png"
+  },
+  "f7792c4a-5f61-421b-a9e3-93c8398ce877": {
+    "asset": 1646408018241,
+    "meta": 1655659761991,
+    "relativePath": "sprites\\tutorial\\addition\\tut_add_04e.png"
+  },
+  "a1635277-0670-4c7c-8ad0-ee5de3e410bb": {
+    "asset": 1646408018252,
+    "meta": 1655659762000,
+    "relativePath": "sprites\\tutorial\\addition\\tut_add_04h.png"
+  },
+  "c5c62568-449e-4470-8d4e-fa23655bcc5c": {
+    "asset": 1646408018243,
+    "meta": 1655659762004,
+    "relativePath": "sprites\\tutorial\\addition\\tut_add_04f.png"
+  },
+  "d6fb7ef7-cfee-4ca7-a769-3677bc4d4d4b": {
+    "asset": 1646408018254,
+    "meta": 1655659762007,
+    "relativePath": "sprites\\tutorial\\addition\\tut_add_05a.png"
+  },
+  "0a20a7f8-8d8f-482e-afa7-ca1bb3026312": {
+    "asset": 1646408018245,
+    "meta": 1655659762015,
+    "relativePath": "sprites\\tutorial\\addition\\tut_add_04g.png"
+  },
+  "c2d77ba9-d9d6-4c24-a87c-bed2e1fc0c62": {
+    "asset": 1646408018255,
+    "meta": 1655659762019,
+    "relativePath": "sprites\\tutorial\\addition\\tut_add_05b.png"
+  },
+  "9541d8d4-c4b0-4c63-a41f-214c55d854b9": {
+    "asset": 1646408018256,
+    "meta": 1655659762048,
+    "relativePath": "sprites\\tutorial\\addition\\tut_add_05c.png"
+  },
+  "fa6fad0a-6a87-4475-ab83-0ae061786b55": {
+    "asset": 1654536509776,
+    "meta": 1655659762071,
+    "relativePath": "resources\\sounds\\morzart.mp3"
+  },
+  "83dd1b8d-21a3-41a3-9edc-04e39883725a": {
+    "asset": 1646408018258,
+    "meta": 1655659762058,
+    "relativePath": "sprites\\tutorial\\addition\\tut_add_05d.png"
+  },
+  "147f9c9d-3adb-4798-8624-9803d42f2f7f": {
+    "asset": 1646408018262,
+    "meta": 1655659762061,
+    "relativePath": "sprites\\tutorial\\addition\\tut_add_05f.png"
+  },
+  "fd9abd1f-8a90-4780-b3ad-b3242135facc": {
+    "asset": 1646408018260,
+    "meta": 1655659762065,
+    "relativePath": "sprites\\tutorial\\addition\\tut_add_05e.png"
+  },
+  "48a9d8ac-3369-4473-813f-74a9d171da84": {
+    "asset": 1646408018270,
+    "meta": 1655659762075,
+    "relativePath": "sprites\\tutorial\\addition\\tut_add_05g.png"
+  },
+  "4d1e5bd5-afdb-447b-90a6-87d83255544f": {
+    "asset": 1646408018271,
+    "meta": 1655659762101,
+    "relativePath": "sprites\\tutorial\\addition\\tut_add_05h.png"
+  },
+  "6ac0001e-03be-4f50-8e2d-3450d094e13c": {
+    "asset": 1646408018275,
+    "meta": 1655659762106,
+    "relativePath": "sprites\\tutorial\\addition\\tut_add_05i.png"
+  },
+  "3183676d-fde4-453b-bacb-f48b26c95ea5": {
+    "asset": 1646408018277,
+    "meta": 1655659762112,
+    "relativePath": "sprites\\tutorial\\addition\\tut_add_06.png"
+  },
+  "48879b62-1e63-4791-a2ba-00a77215789b": {
+    "asset": 1646408018279,
+    "meta": 1655659762119,
+    "relativePath": "sprites\\tutorial\\basics\\1.png"
+  },
+  "d5ed5d0d-41c1-4e6c-a2de-9089bbb79179": {
+    "asset": 1646408018282,
+    "meta": 1655659762123,
+    "relativePath": "sprites\\tutorial\\basics\\10.png"
+  },
+  "b8b2c8da-cd0d-400c-8f2a-de17234dcd1f": {
+    "asset": 1646408018287,
+    "meta": 1655659762137,
+    "relativePath": "sprites\\tutorial\\basics\\12.png"
+  },
+  "f405b9a0-f166-4012-87c9-ac4d88757ee6": {
+    "asset": 1646408018283,
+    "meta": 1655659762140,
+    "relativePath": "sprites\\tutorial\\basics\\11.png"
+  },
+  "7f42ad6e-7379-43ee-bf28-8ea69014825d": {
+    "asset": 1646408018289,
+    "meta": 1655659762146,
+    "relativePath": "sprites\\tutorial\\basics\\13.png"
+  },
+  "99e008fd-fc6c-43f1-963c-569f05c2b6a7": {
+    "asset": 1646408018291,
+    "meta": 1655659762164,
+    "relativePath": "sprites\\tutorial\\basics\\14.png"
+  },
+  "36788152-7306-42dc-8397-794921e5c4ef": {
+    "asset": 1646408018292,
+    "meta": 1655659762170,
+    "relativePath": "sprites\\tutorial\\basics\\15.png"
+  },
+  "a0ca44ef-e808-4731-a39a-3c0ed111c9bf": {
+    "asset": 1646408018294,
+    "meta": 1655659762177,
+    "relativePath": "sprites\\tutorial\\basics\\16.png"
+  },
+  "1e215dcb-22e9-4c62-8ba7-61615450ee66": {
+    "asset": 1646408018296,
+    "meta": 1655659762183,
+    "relativePath": "sprites\\tutorial\\basics\\17.png"
+  },
+  "353fe6a6-a597-4b16-bcbd-ee93f6c3bb49": {
+    "asset": 1646408018298,
+    "meta": 1655659762187,
+    "relativePath": "sprites\\tutorial\\basics\\18.png"
+  },
+  "6794bb72-3167-439d-b869-5a8dd8b4bffc": {
+    "asset": 1646408018299,
+    "meta": 1655659762218,
+    "relativePath": "sprites\\tutorial\\basics\\19.png"
+  },
+  "f43acdf6-83ec-4b07-adf2-7b8263af48f2": {
+    "asset": 1646408018303,
+    "meta": 1655659762224,
+    "relativePath": "sprites\\tutorial\\basics\\20.png"
+  },
+  "5937fb87-0c28-4732-8de6-8b0b1cc61b12": {
+    "asset": 1646408018301,
+    "meta": 1655659762230,
+    "relativePath": "sprites\\tutorial\\basics\\2.png"
+  },
+  "0b0ff2c6-ceef-44fa-aa6d-0b401d801597": {
+    "asset": 1646408018305,
+    "meta": 1655659762237,
+    "relativePath": "sprites\\tutorial\\basics\\21.png"
+  },
+  "cca3a672-7bb3-40e8-b3ce-9210617af78c": {
+    "asset": 1646408018305,
+    "meta": 1655659762250,
+    "relativePath": "sprites\\tutorial\\basics\\22.png"
+  },
+  "4d2ca1bc-a064-444b-9858-4b85e38505a7": {
+    "asset": 1646408018307,
+    "meta": 1655659762260,
+    "relativePath": "sprites\\tutorial\\basics\\23.png"
+  },
+  "1196b085-7ef5-4374-9066-865919029139": {
+    "asset": 1646408018307,
+    "meta": 1655659762264,
+    "relativePath": "sprites\\tutorial\\basics\\3.png"
+  },
+  "c13ea343-14a9-4a28-9e2f-bbca83906fcd": {
+    "asset": 1646408018308,
+    "meta": 1655659762268,
+    "relativePath": "sprites\\tutorial\\basics\\4.png"
+  },
+  "9550a98a-863f-463a-b2f0-693740c5736e": {
+    "asset": 1646408018309,
+    "meta": 1655659762301,
+    "relativePath": "sprites\\tutorial\\basics\\5.png"
+  },
+  "372cafeb-63b0-4382-98b1-39aba2a80a4e": {
+    "asset": 1646408018310,
+    "meta": 1655659762310,
+    "relativePath": "sprites\\tutorial\\basics\\6.png"
+  },
+  "166541df-9539-400e-bdf0-746405c0f034": {
+    "asset": 1646408018311,
+    "meta": 1655659762332,
+    "relativePath": "sprites\\tutorial\\basics\\7.png"
+  },
+  "03a3a69d-f342-4eb0-811a-547e90775ea7": {
+    "asset": 1646408018313,
+    "meta": 1655659762337,
+    "relativePath": "sprites\\tutorial\\basics\\9.png"
+  },
+  "f2aba426-e321-4cef-b9ec-81bf3dc2d598": {
+    "asset": 1646408018313,
+    "meta": 1655659762340,
+    "relativePath": "sprites\\tutorial\\basics\\8.png"
+  },
+  "9b70ba66-36d3-40b4-ad5e-4042d89216c3": {
+    "asset": 1646408018315,
+    "meta": 1655659762344,
+    "relativePath": "sprites\\tutorial\\division\\tut_div_01.png"
+  },
+  "37976761-62f6-4025-93d3-61be3e2fb094": {
+    "asset": 1646408018317,
+    "meta": 1655659762355,
+    "relativePath": "sprites\\tutorial\\division\\tut_div_02.png"
+  },
+  "dc17aab3-1d86-49eb-89af-64e208d38c28": {
+    "asset": 1646408018318,
+    "meta": 1655659762363,
+    "relativePath": "sprites\\tutorial\\division\\tut_div_03.png"
+  },
+  "8454d126-a63c-44ce-a965-a5495f3248b8": {
+    "asset": 1646408018321,
+    "meta": 1655659762404,
+    "relativePath": "sprites\\tutorial\\division\\tut_div_04.png"
+  },
+  "b471eba7-766a-4375-8143-7c1b0f0d9403": {
+    "asset": 1646408018322,
+    "meta": 1655659762410,
+    "relativePath": "sprites\\tutorial\\division\\tut_div_05.png"
+  },
+  "2cf5e22d-9067-4943-91e9-b1ff9ebec306": {
+    "asset": 1646408018323,
+    "meta": 1655659762413,
+    "relativePath": "sprites\\tutorial\\division\\tut_div_06.png"
+  },
+  "d959fc36-1587-4d86-b3d0-6fb1d480a698": {
+    "asset": 1646408018325,
+    "meta": 1655659762423,
+    "relativePath": "sprites\\tutorial\\division\\tut_div_08.png"
+  },
+  "90865390-248b-4ccf-bbd7-ab7655e6cfea": {
+    "asset": 1646408018324,
+    "meta": 1655659762434,
+    "relativePath": "sprites\\tutorial\\division\\tut_div_07.png"
+  },
+  "ca57b69a-9003-4333-ad75-02f28d723dc3": {
+    "asset": 1646408018326,
+    "meta": 1655659762439,
+    "relativePath": "sprites\\tutorial\\division\\tut_div_09.png"
+  },
+  "171dc2f0-0d83-44fc-a013-6c8eab0d7b37": {
+    "asset": 1646408018327,
+    "meta": 1655659762458,
+    "relativePath": "sprites\\tutorial\\division\\tut_div_10.png"
+  },
+  "5bea31a0-ea72-4cfb-872c-3332a9b0bc16": {
+    "asset": 1646408018328,
+    "meta": 1655659762466,
+    "relativePath": "sprites\\tutorial\\division\\tut_div_11.png"
+  },
+  "f2b249a8-cd8f-4e61-9be2-193d1db567b0": {
+    "asset": 1646408018330,
+    "meta": 1655659762489,
+    "relativePath": "sprites\\tutorial\\division\\tut_div_12.png"
+  },
+  "d2f8ca3c-1016-4552-a8db-3f3b3d91a269": {
+    "asset": 1646408018332,
+    "meta": 1655659762495,
+    "relativePath": "sprites\\tutorial\\division\\tut_div_14.png"
+  },
+  "8c1bd397-9400-4922-adfe-5f58924dae0a": {
+    "asset": 1646408018330,
+    "meta": 1655659762506,
+    "relativePath": "sprites\\tutorial\\division\\tut_div_13.png"
+  },
+  "0f9a066d-cd78-4190-aefc-6bd90828a019": {
+    "asset": 1646408018333,
+    "meta": 1655659762514,
+    "relativePath": "sprites\\tutorial\\division\\tut_div_15.png"
+  },
+  "0c9e7d0a-94bb-4294-9689-58b1b3fe5f6e": {
+    "asset": 1646408018336,
+    "meta": 1655659762528,
+    "relativePath": "sprites\\tutorial\\division\\tut_div_17.png"
+  },
+  "08c460bb-a5ad-47c9-914a-dc1dae1e4443": {
+    "asset": 1646408018335,
+    "meta": 1655659762532,
+    "relativePath": "sprites\\tutorial\\division\\tut_div_16.png"
+  },
+  "bc1c7c6d-c01b-4839-adf7-df7cf3da7dfa": {
+    "asset": 1646408018342,
+    "meta": 1655659762547,
+    "relativePath": "sprites\\tutorial\\division\\tut_div_18.png"
+  },
+  "d2acbc0c-1ebd-4dc0-a5f2-7492ed510f52": {
+    "asset": 1646408018344,
+    "meta": 1655659762555,
+    "relativePath": "sprites\\tutorial\\dmultiplication\\tut_dmul_01.png"
+  },
+  "7941d312-7380-43bb-95ba-eac68dce3ad2": {
+    "asset": 1646408018345,
+    "meta": 1655659762572,
+    "relativePath": "sprites\\tutorial\\dmultiplication\\tut_dmul_02.png"
+  },
+  "822e9813-db8b-467a-9140-b9efc47919f2": {
+    "asset": 1646408018347,
+    "meta": 1655659762588,
+    "relativePath": "sprites\\tutorial\\dmultiplication\\tut_dmul_04.png"
+  },
+  "678fdbb8-d2e2-4cb0-9989-b2a1857ebf05": {
+    "asset": 1646408018346,
+    "meta": 1655659762591,
+    "relativePath": "sprites\\tutorial\\dmultiplication\\tut_dmul_03.png"
+  },
+  "f6d31bbb-71f6-43af-a16c-bd8b2b3db1af": {
+    "asset": 1646408018348,
+    "meta": 1655659762623,
+    "relativePath": "sprites\\tutorial\\dmultiplication\\tut_dmul_05.png"
+  },
+  "c010a55c-5af4-4b5e-b2ae-df93b1e00aae": {
+    "asset": 1646408018351,
+    "meta": 1655659762635,
+    "relativePath": "sprites\\tutorial\\dmultiplication\\tut_dmul_07.png"
+  },
+  "4d86f288-ee79-486d-8926-cbaf83a0df88": {
+    "asset": 1646408018352,
+    "meta": 1655659762663,
+    "relativePath": "sprites\\tutorial\\dmultiplication\\tut_dmul_08.png"
+  },
+  "5e964166-06c6-452f-b061-6a764815e07c": {
+    "asset": 1646408018349,
+    "meta": 1655659762681,
+    "relativePath": "sprites\\tutorial\\dmultiplication\\tut_dmul_06.png"
+  },
+  "fedaaa4c-9a80-4398-8c44-60e2f46c974e": {
+    "asset": 1646408018353,
+    "meta": 1655659762685,
+    "relativePath": "sprites\\tutorial\\dmultiplication\\tut_dmul_09.png"
+  },
+  "a87de214-c403-4df6-b198-94ca3b2e8d54": {
+    "asset": 1646408018354,
+    "meta": 1655659762697,
+    "relativePath": "sprites\\tutorial\\dmultiplication\\tut_dmul_10.png"
+  },
+  "891055bf-b518-48e5-a04e-510392070582": {
+    "asset": 1646408018355,
+    "meta": 1655659762731,
+    "relativePath": "sprites\\tutorial\\dmultiplication\\tut_dmul_11.png"
+  },
+  "cb6527a8-35a7-4891-9806-4a3ee5c223d4": {
+    "asset": 1646408018355,
+    "meta": 1655659762743,
+    "relativePath": "sprites\\tutorial\\dmultiplication\\tut_dmul_12.png"
+  },
+  "c931241d-5b00-417d-ad30-b038e76e3b17": {
+    "asset": 1646408018358,
+    "meta": 1655659762764,
+    "relativePath": "sprites\\tutorial\\dmultiplication\\tut_dmul_16.png"
+  },
+  "b3e29dc5-f87e-416c-80fa-f8a0535e3ec4": {
+    "asset": 1646408018357,
+    "meta": 1655659762767,
+    "relativePath": "sprites\\tutorial\\dmultiplication\\tut_dmul_14.png"
+  },
+  "4b15cbc8-9a45-4c33-8ac6-fc41f2912e63": {
+    "asset": 1646408018356,
+    "meta": 1655659762781,
+    "relativePath": "sprites\\tutorial\\dmultiplication\\tut_dmul_13.png"
+  },
+  "2a561d77-be2a-499a-9976-5da544d10ca2": {
+    "asset": 1646408018357,
+    "meta": 1655659762801,
+    "relativePath": "sprites\\tutorial\\dmultiplication\\tut_dmul_15.png"
+  },
+  "547de6c0-485e-4e71-a9ef-107b657159f9": {
+    "asset": 1646408018360,
+    "meta": 1655659762808,
+    "relativePath": "sprites\\tutorial\\dmultiplication\\tut_dmul_18.png"
+  },
+  "7089dbb0-acc9-4532-aa5b-d549c740ce8a": {
+    "asset": 1646408018359,
+    "meta": 1655659762826,
+    "relativePath": "sprites\\tutorial\\dmultiplication\\tut_dmul_17.png"
+  },
+  "111546b1-fb19-4e3d-88f8-86a630ebbda2": {
+    "asset": 1646408018361,
+    "meta": 1655659762829,
+    "relativePath": "sprites\\tutorial\\dmultiplication\\tut_dmul_19.png"
+  },
+  "ff43a5d8-982a-4f72-add1-ab6a61f676b0": {
+    "asset": 1646408018362,
+    "meta": 1655659762845,
+    "relativePath": "sprites\\tutorial\\dmultiplication\\tut_dmul_20.png"
+  },
+  "888067fd-ac94-4078-a5cd-f92396b54597": {
+    "asset": 1646408018362,
+    "meta": 1655659762855,
+    "relativePath": "sprites\\tutorial\\dmultiplication\\tut_dmul_21.png"
+  },
+  "0a1b9a48-ba45-4de4-a323-88e63c152ec4": {
+    "asset": 1646408018366,
+    "meta": 1655659762863,
+    "relativePath": "sprites\\tutorial\\smultiplication\\tut_smul_01.png"
+  },
+  "3e866d3a-23e4-4cdd-9bba-614239e53639": {
+    "asset": 1646408018363,
+    "meta": 1655659762885,
+    "relativePath": "sprites\\tutorial\\dmultiplication\\tut_dmul_22.png"
+  },
+  "cf203c15-b0ad-4789-98cb-ceae66c3128d": {
+    "asset": 1646408018368,
+    "meta": 1655659762889,
+    "relativePath": "sprites\\tutorial\\smultiplication\\tut_smul_02.png"
+  },
+  "96e2c5d8-fca6-4882-8a7d-e8c4d467bb95": {
+    "asset": 1646408018371,
+    "meta": 1655659762910,
+    "relativePath": "sprites\\tutorial\\smultiplication\\tut_smul_04.png"
+  },
+  "54fccb94-e7ee-48e7-be09-d103f9751bdb": {
+    "asset": 1646408018372,
+    "meta": 1655659762917,
+    "relativePath": "sprites\\tutorial\\smultiplication\\tut_smul_06.png"
+  },
+  "fe4e507c-6723-4c3e-8001-675672ad5c43": {
+    "asset": 1646408018369,
+    "meta": 1655659762921,
+    "relativePath": "sprites\\tutorial\\smultiplication\\tut_smul_03.png"
+  },
+  "08e93cf3-8368-460a-a0a8-a4a0abbdd84b": {
+    "asset": 1646408018371,
+    "meta": 1655659762924,
+    "relativePath": "sprites\\tutorial\\smultiplication\\tut_smul_05.png"
+  },
+  "e003bf22-9a3c-485d-a445-3003d78fdc97": {
+    "asset": 1646408018372,
+    "meta": 1655659762965,
+    "relativePath": "sprites\\tutorial\\smultiplication\\tut_smul_07.png"
+  },
+  "fbb35bfd-4375-4efa-ae43-149f23c2a62f": {
+    "asset": 1646408018373,
+    "meta": 1655659762972,
+    "relativePath": "sprites\\tutorial\\smultiplication\\tut_smul_08.png"
+  },
+  "e1688590-fe2b-4970-b989-ee00e945d5e8": {
+    "asset": 1646408018375,
+    "meta": 1655659762989,
+    "relativePath": "sprites\\tutorial\\smultiplication\\tut_smul_10.png"
+  },
+  "7eea0276-b038-4cc8-8a66-880c802a856b": {
+    "asset": 1646408018376,
+    "meta": 1655659762995,
+    "relativePath": "sprites\\tutorial\\smultiplication\\tut_smul_12.png"
+  },
+  "3a951048-0414-4886-b6eb-2fc193412ded": {
+    "asset": 1646408018374,
+    "meta": 1655659763001,
+    "relativePath": "sprites\\tutorial\\smultiplication\\tut_smul_09.png"
+  },
+  "e2df6ca1-a7a4-4506-a838-ca8b9d90cdbc": {
+    "asset": 1646408018375,
+    "meta": 1655659763009,
+    "relativePath": "sprites\\tutorial\\smultiplication\\tut_smul_11.png"
+  },
+  "9176cf1e-9100-4e5a-8d6f-9fb84e837efa": {
+    "asset": 1646408018377,
+    "meta": 1655659763042,
+    "relativePath": "sprites\\tutorial\\smultiplication\\tut_smul_13.png"
+  },
+  "76e35eb6-9c5c-4db3-88e8-e46975a7b15b": {
+    "asset": 1646408018378,
+    "meta": 1655659763046,
+    "relativePath": "sprites\\tutorial\\smultiplication\\tut_smul_14.png"
+  },
+  "89d417d3-0e3c-4900-9eee-68531deaad72": {
+    "asset": 1646408018379,
+    "meta": 1655659763060,
+    "relativePath": "sprites\\tutorial\\smultiplication\\tut_smul_15.png"
+  },
+  "c9a5908e-bd69-4844-a2a7-bbc7edf41638": {
+    "asset": 1646408018379,
+    "meta": 1655659763066,
+    "relativePath": "sprites\\tutorial\\smultiplication\\tut_smul_16.png"
+  },
+  "1f203cbc-55d8-4521-8631-038a740a55c0": {
+    "asset": 1646408018380,
+    "meta": 1655659763070,
+    "relativePath": "sprites\\tutorial\\smultiplication\\tut_smul_17.png"
+  },
+  "d849c571-e490-4e8b-bc5a-e8a369649f95": {
+    "asset": 1646408018382,
+    "meta": 1655659763086,
+    "relativePath": "sprites\\tutorial\\smultiplication\\tut_smul_18.png"
+  },
+  "3efbd118-56f6-470c-950f-2e502738af31": {
+    "asset": 1646408018383,
+    "meta": 1655659763108,
+    "relativePath": "sprites\\tutorial\\smultiplication\\tut_smul_19.png"
+  },
+  "8b474576-3863-4293-97f8-1ccf5428e62f": {
+    "asset": 1646408018386,
+    "meta": 1655659763111,
+    "relativePath": "sprites\\tutorial\\subtraction\\tut_sub_01b.png"
+  },
+  "60335e1e-6515-4ede-8d7c-bb14337c5c6d": {
+    "asset": 1646408018387,
+    "meta": 1655659763123,
+    "relativePath": "sprites\\tutorial\\subtraction\\tut_sub_01c.png"
+  },
+  "211bd078-86ee-4f7e-892b-f8c816093757": {
+    "asset": 1646408018386,
+    "meta": 1655659763127,
+    "relativePath": "sprites\\tutorial\\subtraction\\tut_sub_01a.png"
+  },
+  "54592bfd-4471-434f-8a4b-87eec382f2d4": {
+    "asset": 1646408018389,
+    "meta": 1655659763135,
+    "relativePath": "sprites\\tutorial\\subtraction\\tut_sub_01d.png"
+  },
+  "dea1cfcd-f2c6-4dcb-9ea6-7308644e21a9": {
+    "asset": 1646408018389,
+    "meta": 1655659763149,
+    "relativePath": "sprites\\tutorial\\subtraction\\tut_sub_01e.png"
+  },
+  "d4dcb91a-defc-4666-b6cd-884c06d6c740": {
+    "asset": 1646408018384,
+    "meta": 1655659763160,
+    "relativePath": "sprites\\tutorial\\smultiplication\\tut_smul_20.png"
+  },
+  "05ea5c1d-dc6c-4b0d-bca9-8777f348ffa8": {
+    "asset": 1646408018390,
+    "meta": 1655659763190,
+    "relativePath": "sprites\\tutorial\\subtraction\\tut_sub_02a.png"
+  },
+  "4663d2cf-1435-4249-afbb-a42352cbc8fd": {
+    "asset": 1646408018391,
+    "meta": 1655659763202,
+    "relativePath": "sprites\\tutorial\\subtraction\\tut_sub_02c.png"
+  },
+  "12768698-ea5e-43d0-b9d6-3049ffd02f3e": {
+    "asset": 1646408018392,
+    "meta": 1655659763218,
+    "relativePath": "sprites\\tutorial\\subtraction\\tut_sub_02d.png"
+  },
+  "07b248b0-bc34-4d7f-a1b6-0b2e49fa20aa": {
+    "asset": 1646408018390,
+    "meta": 1655659763224,
+    "relativePath": "sprites\\tutorial\\subtraction\\tut_sub_02b.png"
+  },
+  "dfd6f2f8-11aa-4784-851b-49e12e86d75e": {
+    "asset": 1646408018393,
+    "meta": 1655659763228,
+    "relativePath": "sprites\\tutorial\\subtraction\\tut_sub_02f.png"
+  },
+  "09ba8442-a577-46e6-bad5-1349ff1bb777": {
+    "asset": 1646408018394,
+    "meta": 1655659763240,
+    "relativePath": "sprites\\tutorial\\subtraction\\tut_sub_02g.png"
+  },
+  "30525cbd-2083-47f7-99e1-587811a8d9cf": {
+    "asset": 1646408018392,
+    "meta": 1655659763243,
+    "relativePath": "sprites\\tutorial\\subtraction\\tut_sub_02e.png"
+  },
+  "6c617329-f819-43db-809c-2df96bd468d2": {
+    "asset": 1646408018395,
+    "meta": 1655659763260,
+    "relativePath": "sprites\\tutorial\\subtraction\\tut_sub_03a.png"
+  },
+  "e839b287-ec02-483d-bbfe-dc61c6cdec8a": {
+    "asset": 1655292421567,
+    "meta": 1655659763302,
+    "relativePath": "scripts\\miniGame\\raphael\\component\\optional"
+  },
+  "2e13f7dc-4c60-412b-9ae9-e1f0bbc8a14f": {
+    "asset": 1646408018396,
+    "meta": 1655659763284,
+    "relativePath": "sprites\\tutorial\\subtraction\\tut_sub_03b.png"
+  },
+  "09b02269-4f75-4c0e-af62-9c63fa6ab13e": {
+    "asset": 1589795698000,
+    "meta": 1655659763352,
+    "relativePath": "scripts\\miniGame\\raphael\\component\\R.style.js"
+  },
+  "920006b6-ade9-43c2-99fa-b48c16cb2d64": {
+    "asset": 1646408018397,
+    "meta": 1655659763293,
+    "relativePath": "sprites\\tutorial\\subtraction\\tut_sub_03c.png"
+  },
+  "db19c15f-da3d-4186-aaa9-06e5a41f62a4": {
+    "asset": 1589795698000,
+    "meta": 1655659763441,
+    "relativePath": "scripts\\miniGame\\raphael\\component\\R.transform.js"
+  },
+  "5bf85c31-7827-41c6-9fdc-684b30b027c2": {
+    "asset": 1589795698000,
+    "meta": 1655659763571,
+    "relativePath": "scripts\\miniGame\\raphael\\utils\\R.curve.js"
+  },
+  "dc2f7cd3-2319-4ee0-b28b-cce05825f5ce": {
+    "asset": 1646408018397,
+    "meta": 1655659763299,
+    "relativePath": "sprites\\tutorial\\subtraction\\tut_sub_03d.png"
+  },
+  "58892f69-6426-48a4-8b68-db67c39d501b": {
+    "asset": 1651252336481,
+    "meta": 1655659763598,
+    "relativePath": "scripts\\miniGame\\raphael\\utils\\R.utils.js"
+  },
+  "1e842afe-676a-424b-9ec7-48f8c81fbd1d": {
+    "asset": 1646408018398,
+    "meta": 1655659763306,
+    "relativePath": "sprites\\tutorial\\subtraction\\tut_sub_03e.png"
+  },
+  "618f7100-04cc-40d1-a2fc-c913d437792c": {
+    "asset": 1589795698000,
+    "meta": 1655659763683,
+    "relativePath": "scripts\\miniGame\\raphael\\component\\optional\\R.simplify.js"
+  },
+  "a81382de-764f-4e45-a508-e3ae5e2618c0": {
+    "asset": 1646408018401,
+    "meta": 1655659763575,
+    "relativePath": "sprites\\tutorial\\subtraction\\tut_sub_03f.png"
+  },
+  "e04fdbb4-a28f-400f-b5f1-c4d5a856d7f2": {
+    "asset": 1646408018403,
+    "meta": 1655659763684,
+    "relativePath": "sprites\\tutorial\\subtraction\\tut_sub_03h.png"
+  },
+  "71b42fca-a92b-4e34-8e1c-9c6d38301de6": {
+    "asset": 1646408018402,
+    "meta": 1655659763686,
+    "relativePath": "sprites\\tutorial\\subtraction\\tut_sub_03g.png"
+  },
+  "81d4c866-038c-41b3-b2cd-1e7df7249a68": {
+    "asset": 1646408018404,
+    "meta": 1655659763713,
+    "relativePath": "sprites\\tutorial\\subtraction\\tut_sub_03j.png"
+  },
+  "5c14a221-d382-43ce-86ec-774d65235931": {
+    "asset": 1646408018403,
+    "meta": 1655659763717,
+    "relativePath": "sprites\\tutorial\\subtraction\\tut_sub_03i.png"
+  },
+  "2cb73b48-bf6a-4cf2-929a-42c5cc2515e0": {
+    "asset": 1646408018405,
+    "meta": 1655659763719,
+    "relativePath": "sprites\\tutorial\\subtraction\\tut_sub_03k.png"
+  },
+  "9836134e-b892-4283-b6b2-78b5acf3ed45": {
+    "asset": 1506660369182,
+    "meta": 1656264354752,
+    "relativePath": "effects"
+  },
+  "abc2cb62-7852-4525-a90d-d474487b88f2": {
+    "asset": 1627377658156,
+    "meta": 1656264354937,
+    "relativePath": "effects\\builtin-phong.effect"
+  },
+  "e2f00085-c597-422d-9759-52c360279106": {
+    "asset": 1627377658157,
+    "meta": 1656264355020,
+    "relativePath": "effects\\builtin-toon.effect"
+  },
+  "430eccbf-bf2c-4e6e-8c0c-884bbb487f32": {
+    "asset": 1627377658152,
+    "meta": 1656264355038,
+    "relativePath": "effects\\__builtin-editor-gizmo-line.effect"
+  },
+  "6c5cf6e1-b044-4eac-9431-835644d57381": {
+    "asset": 1627377658154,
+    "meta": 1656264355052,
+    "relativePath": "effects\\__builtin-editor-gizmo-unlit.effect"
+  },
+  "115286d1-2e10-49ee-aab4-341583f607e8": {
+    "asset": 1627377658155,
+    "meta": 1656264355089,
+    "relativePath": "effects\\__builtin-editor-gizmo.effect"
+  },
+  "f8e6b000-5643-4b86-9080-aa680ce1f599": {
+    "asset": 1506660369323,
+    "meta": 1656264354753,
+    "relativePath": "image"
+  },
+  "b43ff3c2-02bb-4874-81f7-f2dea6970f18": {
+    "asset": 1627377658186,
+    "meta": 1656264355127,
+    "relativePath": "image\\default_btn_pressed.png"
+  },
+  "e851e89b-faa2-4484-bea6-5c01dd9f06e2": {
+    "asset": 1627377658184,
+    "meta": 1656264355125,
+    "relativePath": "image\\default_btn_normal.png"
+  },
+  "71561142-4c83-4933-afca-cb7a17f67053": {
+    "asset": 1627377658183,
+    "meta": 1656264355132,
+    "relativePath": "image\\default_btn_disabled.png"
+  },
+  "600301aa-3357-4a10-b086-84f011fa32ba": {
+    "asset": 1627377658206,
+    "meta": 1656264355148,
+    "relativePath": "image\\default-particle.png"
+  },
+  "d81ec8ad-247c-4e62-aa3c-d35c4193c7af": {
+    "asset": 1627377658188,
+    "meta": 1656264355144,
+    "relativePath": "image\\default_panel.png"
+  },
+  "99170b0b-d210-46f1-b213-7d9e3f23098a": {
+    "asset": 1627377658189,
+    "meta": 1656264355142,
+    "relativePath": "image\\default_progressbar_bg.png"
+  },
+  "cfef78f1-c8df-49b7-8ed0-4c953ace2621": {
+    "asset": 1627377658191,
+    "meta": 1656264355139,
+    "relativePath": "image\\default_progressbar.png"
+  },
+  "edd215b9-2796-4a05-aaf5-81f96c9281ce": {
+    "asset": 1627377658187,
+    "meta": 1656264355136,
+    "relativePath": "image\\default_editbox_bg.png"
+  },
+  "9d60001f-b5f4-4726-a629-2659e3ded0b8": {
+    "asset": 1627377658193,
+    "meta": 1656264355175,
+    "relativePath": "image\\default_radio_button_on.png"
+  },
+  "567dcd80-8bf4-4535-8a5a-313f1caf078a": {
+    "asset": 1627377658192,
+    "meta": 1656264355178,
+    "relativePath": "image\\default_radio_button_off.png"
+  },
+  "5c3eedba-6c41-4c0c-9ba7-d91f813cbd1c": {
+    "asset": 1506660369323,
+    "meta": 1656264354754,
+    "relativePath": "materials"
+  },
+  "0291c134-b3da-4098-b7b5-e397edbe947f": {
+    "asset": 1627377658198,
+    "meta": 1656264355181,
+    "relativePath": "image\\default_scrollbar.png"
+  },
+  "fc09f9bd-2cce-4605-b630-8145ef809ed6": {
+    "asset": 1506660369338,
+    "meta": 1656264354755,
+    "relativePath": "misc"
+  },
+  "4bab67cb-18e6-4099-b840-355f0473f890": {
+    "asset": 1627377658194,
+    "meta": 1656264355194,
+    "relativePath": "image\\default_scrollbar_bg.png"
+  },
+  "d6d3ca85-4681-47c1-b5dd-d036a9d39ea2": {
+    "asset": 1627377658197,
+    "meta": 1656264355192,
+    "relativePath": "image\\default_scrollbar_vertical.png"
+  },
+  "db019bf7-f71c-4111-98cf-918ea180cb48": {
+    "asset": 1506660369370,
+    "meta": 1656264354756,
+    "relativePath": "model"
+  },
+  "0275e94c-56a7-410f-bd1a-fc7483f7d14a": {
+    "asset": 1627377658199,
+    "meta": 1656264355201,
+    "relativePath": "image\\default_sprite_splash.png"
+  },
+  "e39e96e6-6f6e-413f-bcf1-ac7679bb648a": {
+    "asset": 1506660369385,
+    "meta": 1656264355198,
+    "relativePath": "model\\prefab"
+  },
+  "c4480a0a-6ac5-443f-8b40-361a14257fc8": {
+    "asset": 1627377658210,
+    "meta": 1656264355891,
+    "relativePath": "materials\\builtin-phong.mtl"
+  },
+  "a87cc147-01b2-43f8-8e42-a7ca90b0c757": {
+    "asset": 1627377658236,
+    "meta": 1656264355399,
+    "relativePath": "model\\prefab\\box.prefab"
+  },
+  "6e056173-d285-473c-b206-40a7fff5386e": {
+    "asset": 1627377658200,
+    "meta": 1656264355188,
+    "relativePath": "image\\default_sprite.png"
+  },
+  "fe1417b6-fe6b-46a4-ae7c-9fd331f33a2a": {
+    "asset": 1627377658237,
+    "meta": 1656264355407,
+    "relativePath": "model\\prefab\\capsule.prefab"
+  },
+  "b5fc2cf2-7942-483d-be1f-bbeadc4714ad": {
+    "asset": 1627377658237,
+    "meta": 1656264355413,
+    "relativePath": "model\\prefab\\cone.prefab"
+  },
+  "617323dd-11f4-4dd3-8eec-0caf6b3b45b9": {
+    "asset": 1627377658196,
+    "meta": 1656264355185,
+    "relativePath": "image\\default_scrollbar_vertical_bg.png"
+  },
+  "1c5e4038-953a-44c2-b620-0bbfc6170477": {
+    "asset": 1627377658239,
+    "meta": 1656264355418,
+    "relativePath": "model\\prefab\\cylinder.prefab"
+  },
+  "f6e6dd15-71d1-4ffe-ace7-24fd39942c05": {
+    "asset": 1506660369401,
+    "meta": 1656264354759,
+    "relativePath": "obsolete"
+  },
+  "c25b9d50-c8fc-4d27-beeb-6e7c1f2e5c0f": {
+    "asset": 1627377658203,
+    "meta": 1656264355241,
+    "relativePath": "image\\default_toggle_disabled.png"
+  },
+  "73a0903d-d80e-4e3c-aa67-f999543c08f5": {
+    "asset": 1627377658201,
+    "meta": 1656264355250,
+    "relativePath": "image\\default_toggle_checkmark.png"
+  },
+  "f743d2b6-b7ea-4c14-a55b-547ed4d0a045": {
+    "asset": 1506660369401,
+    "meta": 1656264354762,
+    "relativePath": "particle"
+  },
+  "d29077ba-1627-4a72-9579-7b56a235340c": {
+    "asset": 1627377658204,
+    "meta": 1656264355255,
+    "relativePath": "image\\default_toggle_normal.png"
+  },
+  "2be36297-9abb-4fee-8049-9ed5e271da8a": {
+    "asset": 1627377658213,
+    "meta": 1656264355244,
+    "relativePath": "misc\\default_video.mp4"
+  },
+  "ae6c6c98-11e4-452f-8758-75f5c6a56e83": {
+    "asset": 1506660369604,
+    "meta": 1656264354764,
+    "relativePath": "prefab"
+  },
+  "3f376125-a699-40ca-ad05-04d662eaa1f2": {
+    "asset": 1627377658240,
+    "meta": 1656264355421,
+    "relativePath": "model\\prefab\\plane.prefab"
+  },
+  "b181c1e4-0a72-4a91-bfb0-ae6f36ca60bd": {
+    "asset": 1627377658205,
+    "meta": 1656264355258,
+    "relativePath": "image\\default_toggle_pressed.png"
+  },
+  "6c9ef10d-b479-420b-bfe6-39cdda6a8ae0": {
+    "asset": 1627377658241,
+    "meta": 1656264355426,
+    "relativePath": "model\\prefab\\quad.prefab"
+  },
+  "2d9a4b85-b0ab-4c46-84c5-18f393ab2058": {
+    "asset": 1627377658243,
+    "meta": 1656264355475,
+    "relativePath": "model\\prefab\\sphere.prefab"
+  },
+  "de510076-056b-484f-b94c-83bef217d0e1": {
+    "asset": 1627377658244,
+    "meta": 1656264355500,
+    "relativePath": "model\\prefab\\torus.prefab"
+  },
+  "897ef7a1-4860-4f64-968d-f5924b18668a": {
+    "asset": 1627377658299,
+    "meta": 1656264355273,
+    "relativePath": "prefab\\2d-camera.prefab"
+  },
+  "70d7cdb0-04cd-41bb-9480-c06a4785f386": {
+    "asset": 1627377658300,
+    "meta": 1656264355276,
+    "relativePath": "prefab\\3d-camera.prefab"
+  },
+  "70bbeb73-6dc2-4ee4-8faf-76b3a0e34ec4": {
+    "asset": 1627377658301,
+    "meta": 1656264355283,
+    "relativePath": "prefab\\3d-particle.prefab"
+  },
+  "ed88f13d-fcad-4848-aa35-65a2cb973584": {
+    "asset": 1627377658303,
+    "meta": 1656264355289,
+    "relativePath": "prefab\\3d-stage.prefab"
+  },
+  "972b9a4d-47ee-4c74-b5c3-61d8a69bc29f": {
+    "asset": 1627377658304,
+    "meta": 1656264355293,
+    "relativePath": "prefab\\button.prefab"
+  },
+  "a3ee0214-b432-4865-9666-4a3211814282": {
+    "asset": 1506660369620,
+    "meta": 1656264355290,
+    "relativePath": "prefab\\light"
+  },
+  "2c937608-2562-40ea-b264-7395df6f0cea": {
+    "asset": 1627377658305,
+    "meta": 1656264355303,
+    "relativePath": "prefab\\canvas.prefab"
+  },
+  "61aeb05b-3b32-452b-8eed-2b76deeed554": {
+    "asset": 1627377658307,
+    "meta": 1656264355307,
+    "relativePath": "prefab\\editbox.prefab"
+  },
+  "27756ebb-3d33-44b0-9b96-e858fadd4dd4": {
+    "asset": 1627377658308,
+    "meta": 1656264355309,
+    "relativePath": "prefab\\label.prefab"
+  },
+  "785a442c-3ceb-45be-a46e-7317f625f3b9": {
+    "asset": 1627377658309,
+    "meta": 1656264355314,
+    "relativePath": "prefab\\layout.prefab"
+  },
+  "ca8401fe-ad6e-41a8-bd46-8e3e4e9945be": {
+    "asset": 1627377658324,
+    "meta": 1656264355320,
+    "relativePath": "prefab\\pageview.prefab"
+  },
+  "cd33edea-55f5-46c2-958d-357a01384a36": {
+    "asset": 1627377658325,
+    "meta": 1656264355323,
+    "relativePath": "prefab\\particlesystem.prefab"
+  },
+  "5965ffac-69da-4b55-bcde-9225d0613c28": {
+    "asset": 1627377658327,
+    "meta": 1656264355327,
+    "relativePath": "prefab\\progressBar.prefab"
+  },
+  "4a37dd57-78cd-4cec-aad4-f11a73d12b63": {
+    "asset": 1627377658328,
+    "meta": 1656264355335,
+    "relativePath": "prefab\\richtext.prefab"
+  },
+  "8a96b965-2dc0-4e03-aa90-3b79cb93b5b4": {
+    "asset": 1627377658249,
+    "meta": 1656264355266,
+    "relativePath": "obsolete\\atom.png"
+  },
+  "32044bd2-481f-4cf1-a656-e2b2fb1594eb": {
+    "asset": 1627377658329,
+    "meta": 1656264355341,
+    "relativePath": "prefab\\scrollview.prefab"
+  },
+  "0004d1cf-a0ad-47d8-ab17-34d3db9d35a3": {
+    "asset": 1627377658331,
+    "meta": 1656264355347,
+    "relativePath": "prefab\\slider.prefab"
+  },
+  "d0a82d39-bede-46c4-b698-c81ff0dedfff": {
+    "asset": 1627377658255,
+    "meta": 1656264355299,
+    "relativePath": "particle\\atom.png"
+  },
+  "96083d03-c332-4a3f-9386-d03e2d19e8ee": {
+    "asset": 1627377658334,
+    "meta": 1656264355354,
+    "relativePath": "prefab\\sprite.prefab"
+  },
+  "1f55e3be-b89b-4b79-88de-47fd31018044": {
+    "asset": 1627377658332,
+    "meta": 1656264355360,
+    "relativePath": "prefab\\sprite_splash.prefab"
+  },
+  "7de03a80-4457-438d-95a7-3e7cdffd6086": {
+    "asset": 1627377658335,
+    "meta": 1656264355364,
+    "relativePath": "prefab\\tiledmap.prefab"
+  },
+  "0e42ba95-1fa1-46aa-b2cf-143cd1bcee2c": {
+    "asset": 1627377658336,
+    "meta": 1656264355369,
+    "relativePath": "prefab\\tiledtile.prefab"
+  },
+  "0d784963-d024-4ea6-a7db-03be0ad63010": {
+    "asset": 1627377658337,
+    "meta": 1656264355379,
+    "relativePath": "prefab\\toggle.prefab"
+  },
+  "bf0a434c-84dd-4a8e-a08a-7a36f180cc75": {
+    "asset": 1627377658338,
+    "meta": 1656264355385,
+    "relativePath": "prefab\\toggleContainer.prefab"
+  },
+  "d1b8be49-b0a0-435c-83b7-552bed4bbe35": {
+    "asset": 1627377658340,
+    "meta": 1656264355391,
+    "relativePath": "prefab\\toggleGroup.prefab"
+  },
+  "d8afc78c-4eac-4a9f-83dd-67bc70344d33": {
+    "asset": 1506660369698,
+    "meta": 1656264354766,
+    "relativePath": "resources"
+  },
+  "294c1663-4adf-4a1e-a795-53808011a38a": {
+    "asset": 1506660369682,
+    "meta": 1656264355366,
+    "relativePath": "resources\\effects"
+  },
+  "232d2782-c4bd-4bb4-9e01-909f03d6d3b9": {
+    "asset": 1627377658341,
+    "meta": 1656264355388,
+    "relativePath": "prefab\\videoplayer.prefab"
+  },
+  "bbee2217-c261-49bd-a8ce-708d6bcc3500": {
+    "asset": 1506660369713,
+    "meta": 1656264355371,
+    "relativePath": "resources\\materials"
+  },
+  "8c5001fd-07ee-4a4b-a8a0-63e15195e94d": {
+    "asset": 1627377658342,
+    "meta": 1656264355394,
+    "relativePath": "prefab\\webview.prefab"
+  },
+  "30682f87-9f0d-4f17-8a44-72863791461b": {
+    "asset": 1627377658380,
+    "meta": 1656264355452,
+    "relativePath": "resources\\effects\\builtin-2d-graphics.effect"
+  },
+  "144c3297-af63-49e8-b8ef-1cfa29b3be28": {
+    "asset": 1627377658381,
+    "meta": 1656264355473,
+    "relativePath": "resources\\effects\\builtin-2d-gray-sprite.effect"
+  },
+  "f18742d7-56d2-4eb5-ae49-2d9d710b37c8": {
+    "asset": 1627377658382,
+    "meta": 1656264355498,
+    "relativePath": "resources\\effects\\builtin-2d-label.effect"
+  },
+  "0e93aeaa-0b53-4e40-b8e0-6268b4e07bd7": {
+    "asset": 1627377658383,
+    "meta": 1656264355523,
+    "relativePath": "resources\\effects\\builtin-2d-spine.effect"
+  },
+  "61906da3-7003-4bda-9abc-5769c76faee4": {
+    "asset": 1627377658319,
+    "meta": 1656264355689,
+    "relativePath": "prefab\\light\\ambient.prefab"
+  },
+  "2874f8dd-416c-4440-81b7-555975426e93": {
+    "asset": 1627377658385,
+    "meta": 1656264355541,
+    "relativePath": "resources\\effects\\builtin-2d-sprite.effect"
+  },
+  "ddb99b39-7004-47cd-9705-751905c43c46": {
+    "asset": 1627377658320,
+    "meta": 1656264355740,
+    "relativePath": "prefab\\light\\directional.prefab"
+  },
+  "829a282c-b049-4019-bd38-5ace8d8a6417": {
+    "asset": 1627377658386,
+    "meta": 1656264355654,
+    "relativePath": "resources\\effects\\builtin-3d-particle.effect"
+  },
+  "0cf30284-9073-46bc-9eba-e62b69dbbff3": {
+    "asset": 1627377658321,
+    "meta": 1656264355748,
+    "relativePath": "prefab\\light\\point.prefab"
+  },
+  "2a7c0036-e0b3-4fe1-8998-89a54b8a2bec": {
+    "asset": 1627377658387,
+    "meta": 1656264355687,
+    "relativePath": "resources\\effects\\builtin-3d-trail.effect"
+  },
+  "f5331fd2-bf42-4ee3-a3fd-3e1657600eff": {
+    "asset": 1627377658323,
+    "meta": 1656264355751,
+    "relativePath": "prefab\\light\\spot.prefab"
+  },
+  "c0040c95-c57f-49cd-9cbc-12316b73d0d4": {
+    "asset": 1627377658388,
+    "meta": 1656264355707,
+    "relativePath": "resources\\effects\\builtin-clear-stencil.effect"
+  },
+  "6d91e591-4ce0-465c-809f-610ec95019c6": {
+    "asset": 1627377658390,
+    "meta": 1656264355733,
+    "relativePath": "resources\\effects\\builtin-unlit.effect"
+  },
+  "6f801092-0c37-4f30-89ef-c8d960825b36": {
+    "asset": 1627377658403,
+    "meta": 1656264355945,
+    "relativePath": "resources\\materials\\builtin-2d-base.mtl"
+  },
+  "e02d87d4-e599-4d16-8001-e14891ac6506": {
+    "asset": 1627377658406,
+    "meta": 1656264355948,
+    "relativePath": "resources\\materials\\builtin-2d-label.mtl"
+  },
+  "a153945d-2511-4c14-be7b-05d242f47d57": {
+    "asset": 1627377658404,
+    "meta": 1656264355946,
+    "relativePath": "resources\\materials\\builtin-2d-graphics.mtl"
+  },
+  "3a7bb79f-32fd-422e-ada2-96f518fed422": {
+    "asset": 1627377658405,
+    "meta": 1656264355947,
+    "relativePath": "resources\\materials\\builtin-2d-gray-sprite.mtl"
+  },
+  "7afd064b-113f-480e-b793-8817d19f63c3": {
+    "asset": 1627377658407,
+    "meta": 1656264355950,
+    "relativePath": "resources\\materials\\builtin-2d-spine.mtl"
+  },
+  "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432": {
+    "asset": 1627377658409,
+    "meta": 1656264355951,
+    "relativePath": "resources\\materials\\builtin-2d-sprite.mtl"
+  },
+  "432fa09c-cf03-4cff-a186-982604408a07": {
+    "asset": 1627377658410,
+    "meta": 1656264355952,
+    "relativePath": "resources\\materials\\builtin-3d-particle.mtl"
+  },
+  "466d4f9b-e5f4-4ea8-85d5-3c6e9a65658a": {
+    "asset": 1627377658411,
+    "meta": 1656264355954,
+    "relativePath": "resources\\materials\\builtin-3d-trail.mtl"
+  },
+  "cf7e0bb8-a81c-44a9-ad79-d28d43991032": {
+    "asset": 1627377658412,
+    "meta": 1656264355955,
+    "relativePath": "resources\\materials\\builtin-clear-stencil.mtl"
+  },
+  "2a296057-247c-4a1c-bbeb-0548b6c98650": {
+    "asset": 1627377658413,
+    "meta": 1656264355956,
+    "relativePath": "resources\\materials\\builtin-unlit.mtl"
+  },
+  "b8223619-7e38-47c4-841f-9160c232495a": {
+    "asset": 1627377658248,
+    "meta": 1656264355971,
+    "relativePath": "obsolete\\atom.plist"
+  },
+  "b2687ac4-099e-403c-a192-ff477686f4f5": {
+    "asset": 1627377658254,
+    "meta": 1656264355972,
+    "relativePath": "particle\\atom.plist"
+  },
+  "954fec8b-cd16-4bb9-a3b7-7719660e7558": {
+    "asset": 1627377658245,
+    "meta": 1656264359128,
+    "relativePath": "model\\primitives.fbx"
+  },
+  "8f1fe4c4-5a1a-4b32-8e7f-de1086201d61": {
+    "asset": 1655660172505,
+    "meta": 1655660183199,
+    "relativePath": "scripts\\listLesson\\lesson4\\Node3_4.ts"
+  },
+  "cc211e4b-205f-4125-8e51-f3ac9a425d65": {
+    "asset": 1656266198423,
+    "meta": 1656266198440,
+    "relativePath": "resources\\prefabs\\lesson\\Lesson4.prefab"
+  },
+  "f3714aaf-1436-4104-90fe-12ffa7b52b38": {
+    "asset": 1655661183431,
+    "meta": 1655661185873,
+    "relativePath": "scripts\\listLesson\\lesson4\\Node4_4.ts"
+  },
+  "26f0eda1-4c1c-48aa-aecd-a9e0dfc9560c": {
+    "asset": 1655661178560,
+    "meta": 1655661185916,
+    "relativePath": "scripts\\listLesson\\lesson4\\Node5_4.ts"
+  },
+  "6f036893-d66b-4afc-97db-deba69e0b1d1": {
+    "asset": 1655661179329,
+    "meta": 1655661185947,
+    "relativePath": "scripts\\listLesson\\lesson4\\Node6_4.ts"
+  },
+  "a95e9477-3293-4381-837b-e1d387c03e1c": {
+    "asset": 1656264882121,
+    "meta": 1656264971928,
+    "relativePath": "scripts\\Global.ts"
+  },
+  "e6b2247b-dc24-4e27-9d97-febde52029d0": {
+    "asset": 1656265601723,
+    "meta": 1656265602877,
+    "relativePath": "scripts\\listLesson\\Common.ts"
+  },
+  "e3eb1d4b-1a0f-4b2c-ba3e-c1b03b7432d5": {
+    "asset": 1656343809680,
+    "meta": 1656343810299,
+    "relativePath": "scripts\\FullSize.ts"
+  },
+  "2729fa5a-a608-4aef-b410-9c1e2322676e": {
+    "asset": 1656693695119,
+    "meta": 1656693882726,
+    "relativePath": "scripts\\listLesson\\ListLesson.ts"
+  },
+  "2abeb072-9bb1-45b6-982c-d30d8bbd3d3a": {
+    "asset": 1656695645945,
+    "meta": 1656695646859,
+    "relativePath": "scripts\\listLesson\\lesson0\\Lesson0.ts"
+  },
+  "59eb6e7e-e46a-4ee4-9fd3-d2a01de04906": {
+    "asset": 1656696177354,
+    "meta": 1656696178641,
+    "relativePath": "scripts\\menu\\MenuLoader.ts"
+  },
+  "ab2060dc-9fac-4699-a72e-61aa8ad5b28b": {
+    "asset": 1656697909646,
+    "meta": 1656697954648,
+    "relativePath": "scripts\\Bead.ts"
+  },
+  "8ce3f018-3287-4921-9118-aea0ef4978dc": {
+    "asset": 1656698204779,
+    "meta": 1656698206221,
+    "relativePath": "scripts\\Abacus.ts"
+  }
+}

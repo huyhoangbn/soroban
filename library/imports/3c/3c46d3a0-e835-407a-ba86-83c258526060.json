@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "multiphi2",
+    "texture": "8f6f47cd-5a75-49ea-91af-e677ed9c09bb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      349,
+      355
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      349,
+      355
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

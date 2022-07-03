@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bead_active",
+    "texture": "84fdc426-42e3-4dab-886a-b774cc8dd3d5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      151,
+      81
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      151,
+      81
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

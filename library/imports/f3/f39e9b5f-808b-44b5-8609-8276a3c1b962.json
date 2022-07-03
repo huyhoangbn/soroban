@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mbar",
+    "texture": "1275a660-6263-438b-891c-5df3d6e24ef4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1499,
+      84
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1499,
+      84
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

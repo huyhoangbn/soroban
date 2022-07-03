@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "thanhngang",
+    "texture": "adfaa652-5eed-4a36-abd5-6944340ed996",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1499,
+      84
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1499,
+      84
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

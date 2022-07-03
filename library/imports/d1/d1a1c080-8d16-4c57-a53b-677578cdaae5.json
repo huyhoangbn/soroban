@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btchallenge",
+    "texture": "589c0e34-e509-471a-a626-c0867133752f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      252,
+      223
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      252,
+      223
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

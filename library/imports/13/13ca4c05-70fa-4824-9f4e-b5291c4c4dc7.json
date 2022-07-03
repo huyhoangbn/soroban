@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "vbar",
+    "texture": "c04ca929-a9b4-4318-b34c-16bfbeb5fc92",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      40,
+      644
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      40,
+      644
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

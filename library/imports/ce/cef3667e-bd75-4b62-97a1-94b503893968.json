@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pheptinh",
+    "texture": "a9821d8c-7dfd-4fd0-bf2a-dcf1a1e30af2",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      677,
+      127
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      679,
+      130
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

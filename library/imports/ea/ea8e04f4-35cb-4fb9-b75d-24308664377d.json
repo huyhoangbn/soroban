@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hbar",
+    "texture": "29c8c825-93ff-4053-ac61-3376f559eba1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1560,
+      73
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1560,
+      73
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

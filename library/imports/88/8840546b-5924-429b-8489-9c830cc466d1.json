@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "vborder",
+    "texture": "06288482-ddf9-4d6c-8b67-6b83aa59f0e7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      98,
+      733
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      98,
+      733
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

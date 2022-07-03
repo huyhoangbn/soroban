@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bead_focused",
+    "texture": "38fd1c62-eb98-498c-8e49-f136ec973cee",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      158,
+      88
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      158,
+      88
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
